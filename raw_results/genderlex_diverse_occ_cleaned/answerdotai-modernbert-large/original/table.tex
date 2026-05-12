@@ -1,0 +1,24 @@
+\begin{table*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+Model &
+\multicolumn{4}{c}{Context Masking} &
+\multicolumn{4}{c}{Pronoun Masking} &
+\multicolumn{2}{c}{Bidir} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(lr){10-11}
+ & M (\%) & F (\%) & mean & sd &
+   M (\%) & F (\%) & mean & sd &
+   Corr ($r$) & Agreement (\%) \\
+\midrule
+original &
+49.0 & 51.0 & 0.009 & 0.459 &
+48.8 & 51.2 & -0.083 & 1.115 &
+0.1885 & 63.2 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Simple-score summary for original on \textsc{answerdotai/ModernBERT-large} / \textsc{GenderLex\_diverse\_occ\_cleaned}. Agreement is the percentage of examples where context and pronoun scores prefer the same direction.}
+\label{tab:simple-original-genderlex_diverse_occ_cleaned}
+\end{table*}

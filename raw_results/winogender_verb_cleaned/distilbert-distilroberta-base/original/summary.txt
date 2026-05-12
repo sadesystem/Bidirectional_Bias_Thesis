@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   distilbert/distilroberta-base
+Dataset: winogender_verb_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               178
+Mean delta:      +0.007146
+Std:             0.198484
+Male pref %:     46.63
+Female pref %:   53.37
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               178
+Mean delta:      -0.466570
+Std:             1.081466
+Male pref %:     32.58
+Female pref %:   67.42
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +0.4790
+p-value:         6.33e-01
+Significant:     NO
+Cohen's d:       +0.0359
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      14
+Uncorrected sig.:     4
+FDR significant:      0
+Per-context details:  context_significance.csv

@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   bert-large-uncased
+Dataset: GenderLex_diverse_long_verb_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              -0.070636   0.407582    41.00    -0.364104   0.744412    33.50
+within_word_l2r       -0.052991   0.440992    42.25    -0.364104   0.744412    33.50
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=5.95e-04 d=-0.1731
+                   contexts=26 fdr_sig=0
+within_word_l2r    p=1.68e-02 d=-0.1200
+                   contexts=26 fdr_sig=0

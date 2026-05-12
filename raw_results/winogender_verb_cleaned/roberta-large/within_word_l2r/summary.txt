@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - within_word_l2r
+======================================================================
+Model:   roberta-large
+Dataset: winogender_verb_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               178
+Mean delta:      +0.011073
+Std:             0.513459
+Male pref %:     50.56
+Female pref %:   49.44
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               178
+Mean delta:      +0.579392
+Std:             1.346723
+Male pref %:     73.03
+Female pref %:   26.97
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +0.2869
+p-value:         7.75e-01
+Significant:     NO
+Cohen's d:       +0.0215
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      14
+Uncorrected sig.:     4
+FDR significant:      0
+Per-context details:  context_significance.csv

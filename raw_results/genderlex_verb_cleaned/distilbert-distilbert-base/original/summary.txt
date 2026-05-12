@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   distilbert/distilbert-base-uncased
+Dataset: GenderLex_verb_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               837
+Mean delta:      +0.624442
+Std:             0.598509
+Male pref %:     87.69
+Female pref %:   12.31
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               837
+Mean delta:      +1.155694
+Std:             0.843525
+Male pref %:     89.25
+Female pref %:   10.75
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +30.1665
+p-value:         7.72e-136
+Significant:     YES
+Cohen's d:       +1.0427
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      54
+Uncorrected sig.:     34
+FDR significant:      33
+Per-context details:  context_significance.csv

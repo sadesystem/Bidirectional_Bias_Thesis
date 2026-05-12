@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   answerdotai/ModernBERT-large
+Dataset: winogender_occ_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.078530   0.503251    58.43    +0.947984   1.198986    86.52
+within_word_l2r       +0.076903   0.503980    60.24    +0.947984   1.198986    86.52
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=4.67e-02 d=+0.1556
+                   contexts=8 fdr_sig=1
+within_word_l2r    p=5.17e-02 d=+0.1521
+                   contexts=8 fdr_sig=1

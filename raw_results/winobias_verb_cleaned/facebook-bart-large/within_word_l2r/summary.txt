@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - within_word_l2r
+======================================================================
+Model:   facebook/bart-large
+Dataset: winobias_verb_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               785
+Mean delta:      +0.016460
+Std:             0.398422
+Male pref %:     51.72
+Female pref %:   48.03
+Tie %:           0.25
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               785
+Mean delta:      +0.909497
+Std:             1.648241
+Male pref %:     75.80
+Female pref %:   24.20
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +1.1568
+p-value:         2.48e-01
+Significant:     NO
+Cohen's d:       +0.0413
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      62
+Uncorrected sig.:     7
+FDR significant:      0
+Per-context details:  context_significance.csv

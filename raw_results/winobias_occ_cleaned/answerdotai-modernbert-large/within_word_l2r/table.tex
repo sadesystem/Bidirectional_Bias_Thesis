@@ -1,0 +1,24 @@
+\begin{table*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+Model &
+\multicolumn{4}{c}{Context Masking} &
+\multicolumn{4}{c}{Pronoun Masking} &
+\multicolumn{2}{c}{Bidir} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(lr){10-11}
+ & M (\%) & F (\%) & mean & sd &
+   M (\%) & F (\%) & mean & sd &
+   Corr ($r$) & Agreement (\%) \\
+\midrule
+within\_word\_l2r &
+61.9 & 38.1 & 0.224 & 0.951 &
+76.7 & 23.3 & 0.866 & 1.765 &
+0.5537 & 76.3 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Simple-score summary for within\_word\_l2r on \textsc{answerdotai/ModernBERT-large} / \textsc{winobias\_occ\_cleaned}. Agreement is the percentage of examples where context and pronoun scores prefer the same direction.}
+\label{tab:simple-within_word_l2r-winobias_occ_cleaned}
+\end{table*}

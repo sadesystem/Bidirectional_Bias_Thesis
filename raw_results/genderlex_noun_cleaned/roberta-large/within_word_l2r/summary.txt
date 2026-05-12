@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - within_word_l2r
+======================================================================
+Model:   roberta-large
+Dataset: GenderLex_noun_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               837
+Mean delta:      -0.005688
+Std:             0.281690
+Male pref %:     49.94
+Female pref %:   50.06
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               837
+Mean delta:      +0.912231
+Std:             1.135106
+Male pref %:     78.97
+Female pref %:   21.03
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     -0.5839
+p-value:         5.59e-01
+Significant:     NO
+Cohen's d:       -0.0202
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      66
+Uncorrected sig.:     19
+FDR significant:      10
+Per-context details:  context_significance.csv

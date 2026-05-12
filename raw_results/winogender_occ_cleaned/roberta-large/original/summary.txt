@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   roberta-large
+Dataset: winogender_occ_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               166
+Mean delta:      +0.066553
+Std:             0.730801
+Male pref %:     59.04
+Female pref %:   40.96
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               178
+Mean delta:      +0.582691
+Std:             1.346762
+Male pref %:     73.60
+Female pref %:   26.40
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +1.1698
+p-value:         2.44e-01
+Significant:     NO
+Cohen's d:       +0.0908
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      8
+Uncorrected sig.:     3
+FDR significant:      2
+Per-context details:  context_significance.csv

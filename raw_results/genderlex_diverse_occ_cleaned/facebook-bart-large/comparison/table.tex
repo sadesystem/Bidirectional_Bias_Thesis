@@ -1,0 +1,22 @@
+\begin{table*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+Method &
+\multicolumn{4}{c}{Context Masking} &
+\multicolumn{4}{c}{Pronoun Masking} &
+\multicolumn{2}{c}{Bidir} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(lr){10-11}
+ & M (\%) & F (\%) & mean & sd &
+   M (\%) & F (\%) & mean & sd &
+   Corr ($r$) & Agreement (\%) \\
+\midrule
+original & 51.0 & 48.2 & -0.022 & 0.715 & 20.2 & 79.5 & -0.990 & 1.204 & 0.1919 & 53.2 \\
+within\_word\_l2r & 50.2 & 49.2 & -0.038 & 0.717 & 20.2 & 79.5 & -0.990 & 1.204 & 0.2070 & 53.5 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Simple-score method comparison for \textsc{facebook/bart-large} on \textsc{GenderLex\_diverse\_occ\_cleaned}. Agreement is the percentage of examples where context and pronoun scores prefer the same direction.}
+\label{tab:simple-comparison-genderlex_diverse_occ_cleaned}
+\end{table*}

@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   distilbert/distilroberta-base
+Dataset: GenderLex_diverse_noun_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               400
+Mean delta:      +0.026723
+Std:             0.448518
+Male pref %:     54.25
+Female pref %:   45.75
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               400
+Mean delta:      +0.039665
+Std:             1.129790
+Male pref %:     54.25
+Female pref %:   45.75
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +1.1901
+p-value:         2.35e-01
+Significant:     NO
+Cohen's d:       +0.0595
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      3
+Uncorrected sig.:     1
+FDR significant:      0
+Per-context details:  context_significance.csv

@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   answerdotai/ModernBERT-large
+Dataset: GenderLex_verb_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.343619   0.534606    78.85    -0.634493   1.048651    27.00
+within_word_l2r       +0.343623   0.534603    78.85    -0.634493   1.048651    27.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=8.52e-65 d=+0.6424
+                   contexts=54 fdr_sig=22
+within_word_l2r    p=8.48e-65 d=+0.6424
+                   contexts=54 fdr_sig=22

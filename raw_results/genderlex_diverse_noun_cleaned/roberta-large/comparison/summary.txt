@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   roberta-large
+Dataset: GenderLex_diverse_noun_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              -0.126389   0.585158    38.00    +0.679650   1.048495    75.00
+within_word_l2r       -0.156180   0.646107    37.75    +0.679650   1.048495    75.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=2.02e-05 d=-0.2157
+                   contexts=3 fdr_sig=0
+within_word_l2r    p=1.96e-06 d=-0.2414
+                   contexts=3 fdr_sig=0

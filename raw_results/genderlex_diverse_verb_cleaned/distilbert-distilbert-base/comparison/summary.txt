@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   distilbert/distilbert-base-uncased
+Dataset: GenderLex_diverse_verb_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.071403   0.413881    54.75    +0.495017   1.065935    68.75
+within_word_l2r       +0.086353   0.436443    55.75    +0.495017   1.065935    68.75
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=6.29e-04 d=+0.1723
+                   contexts=26 fdr_sig=0
+within_word_l2r    p=9.16e-05 d=+0.1976
+                   contexts=26 fdr_sig=0

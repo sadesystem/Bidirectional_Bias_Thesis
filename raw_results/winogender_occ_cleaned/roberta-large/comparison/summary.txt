@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   roberta-large
+Dataset: winogender_occ_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.066553   0.730801    59.04    +0.582691   1.346762    73.60
+within_word_l2r       +0.095829   0.803492    65.66    +0.582691   1.346762    73.60
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=2.44e-01 d=+0.0908
+                   contexts=8 fdr_sig=2
+within_word_l2r    p=1.27e-01 d=+0.1189
+                   contexts=8 fdr_sig=2

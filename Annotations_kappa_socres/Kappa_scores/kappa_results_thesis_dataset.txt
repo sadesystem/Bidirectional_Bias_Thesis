@@ -1,0 +1,121 @@
+============================================================
+INTER-ANNOTATOR AGREEMENT ANALYSIS
+============================================================
+
+
+
+*** annotator_1 vs annotator_2 ***
+
+Observed agreement: 0.825
+Expected agreement: 0.5
+Pairwise kappa (Cohen's): 0.6499999999999999
+
+Confusion Matrix:
+  |   0   1 |
+--+---------+
+0 |<140> 60 |
+1 |  10<190>|
+--+---------+
+(row = reference; col = test)
+
+
+============================================================
+Overall Inter-Annotator Agreement:
+============================================================
+k (k-bar / Average Pairwise Kappa): 0.6499999999999999
+
+Interpretation:
+  Substantial agreement
+
+------------------------------------------------------------
+Fleiss' Kappa (Multi-Annotator Metric):
+------------------------------------------------------------
+Fleiss' k (Standard Formula): 0.6444444444444444
+Fleiss' k (NLTK variant): 0.6499999999999999
+Difference: 0.005555555555555536
+
+Why the difference?
+  - Standard Fleiss' k: Calculates agreement across ALL annotators
+    simultaneously for each item, then averages across items.
+    This is the true multi-annotator metric.
+  - NLTK's multi_kappa: Averages pairwise observed agreements
+    and pairwise expected agreements separately, then applies
+    kappa formula. This is essentially averaging pairwise metrics.
+
+Interpretation:
+  Substantial agreement
+============================================================
+
+
+Disagreements:
+------------------------------------------------------------
+datapoint_11: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_23: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_35: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_47: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_59: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_71: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_83: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_95: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_107: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_119: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_124: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_126: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_127: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_131: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_132: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_136: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_138: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_139: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_143: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_144: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_148: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_150: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_151: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_155: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_156: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_160: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_162: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_163: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_167: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_168: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_172: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_174: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_175: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_179: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_180: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_184: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_186: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_187: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_191: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_192: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_196: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_198: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_199: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_203: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_204: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_208: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_210: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_211: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_215: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_216: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_220: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_222: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_223: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_227: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_228: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_232: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_234: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_235: {'annotator_1': '1', 'annotator_2': '0'}
+datapoint_239: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_240: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_249: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_261: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_273: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_285: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_297: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_309: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_321: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_333: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_345: {'annotator_1': '0', 'annotator_2': '1'}
+datapoint_357: {'annotator_1': '0', 'annotator_2': '1'}

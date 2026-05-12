@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   facebook/bart-large
+Dataset: GenderLex_diverse_long_occ_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.017462   0.646599    53.00    -1.852739   1.449937     7.00
+within_word_l2r       -0.004466   0.643347    52.00    -1.852739   1.449937     7.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=5.90e-01 d=+0.0270
+                   contexts=40 fdr_sig=6
+within_word_l2r    p=8.90e-01 d=-0.0069
+                   contexts=40 fdr_sig=8

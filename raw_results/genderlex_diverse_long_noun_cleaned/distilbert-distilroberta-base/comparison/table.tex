@@ -1,0 +1,22 @@
+\begin{table*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+Method &
+\multicolumn{4}{c}{Context Masking} &
+\multicolumn{4}{c}{Pronoun Masking} &
+\multicolumn{2}{c}{Bidir} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(lr){10-11}
+ & M (\%) & F (\%) & mean & sd &
+   M (\%) & F (\%) & mean & sd &
+   Corr ($r$) & Agreement (\%) \\
+\midrule
+original & 48.2 & 51.8 & -0.011 & 0.343 & 47.8 & 52.2 & -0.128 & 1.286 & 0.1757 & 55.0 \\
+within\_word\_l2r & 48.8 & 51.2 & -0.007 & 0.346 & 47.8 & 52.2 & -0.128 & 1.286 & 0.1792 & 54.0 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Simple-score method comparison for \textsc{distilbert/distilroberta-base} on \textsc{Genderlex\_diverse\_long\_noun\_cleaned}. Agreement is the percentage of examples where context and pronoun scores prefer the same direction.}
+\label{tab:simple-comparison-genderlex_diverse_long_noun_cleaned}
+\end{table*}

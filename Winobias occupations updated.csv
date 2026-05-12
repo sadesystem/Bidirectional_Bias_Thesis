@@ -1,0 +1,42 @@
+occupation,% women,%men ,original %women,Label US,aggregations and occupation titles in the dataset
+constructor,3.5,96.5,3.5,M,Construction laborers
+mechanician,3.9,96.1,4,M,"First-line supervisors of mechanics, installers, and repairers, Aircraft mechanics and service technicians, Automotive service technicians and mechanics, Bus and truck mechanics and diesel engine specialists, Heavy vehicle and mobile equipment service technicians and mechanics, Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers, Heating, air conditioning, and refrigeration mechanics and installers, Industrial and refractory machinery mechanics"
+carpenter,4.2,95.8,2.1,M,
+driver,7.9,92.1,6,M,driver/sales workers and truck tdrivers
+sheriff,15.4,84.6,14,M,
+developer,20.3,79.7,20,M,software developer
+guard,22.4,77.6,22,M,security guard
+mover,22.9,77.1,18,M,
+chief,26.9,73.1,27,M,chief executive
+farmer,27,73,22,M,
+CEO,33,67,39,M,Chief executives
+janitor,35.9,64.1,34,M,
+analyst,40.9,59.1,41,M,management analyst
+manager,41.8,58.2,43,M,management occupations
+lawyer,42,58,35,M,
+cook,42.5,57.5,38,M,
+supervisor,42.6,57.4,44,M,"First-line supervisors of police and detectives, First-line supervisors of firefighting and prevention workers, First-line supervisors of security workers, First-line supervisors of food preparation and serving workers, First-line supervisors of housekeeping and janitorial workers, First-line supervisors of landscaping, lawn service, and groundskeeping workers, Supervisors of personal care and service workers, First-line supervisors of retail sales workers, First-line supervisors of non-retail sales workers, First-line supervisors of office and administrative support workers, First-line supervisors of farming, fishing, and forestry workers, First-line supervisors of construction trades and extraction workers, First-line supervisors of mechanics, installers, and repairers, First-line supervisors of production and operating workers, Supervisors of transportation and material moving workers"
+physician,44.5,55.5,38,M,physician
+salesperson,47.9,52.1,48,M,sales and related occupations
+designer,54.4,45.6,54,F,"Web and digital interface designers, Graphic designers, Interior designers, Other designers"
+accountant,57.2,42.8,61,F,
+auditor,57.2,42.8,61,F,Accountants and auditors
+writer,64.7,35.3,63,F,Writers and authors
+baker,67.1,32.9,65,F,
+cashier,68.9,31.1,73,F,
+teacher,71.8,28.2,78,F,"Postsecondary teachers, Preschool and kindergarten teachers, Elementary and middle school teachers, Secondary school teachers, Special education teachers, Other teachers and instructors,"
+editor,72.6,27.4,52,F,
+counselors,72.9,27.1,72,F,"Counselors, all other"
+clerk,73.9,26.1,72,F,"Counter and rental clerks, Billing and posting clerks, Bookkeeping, accounting, and auditing clerks, Payroll and timekeeping clerks, Financial clerks, all other, Court, municipal, and license clerks, File Clerks, Hotel, motel, and resort desk clerks, Loan interviewers and clerks, Order clerks, Receptionists and information clerks, Reservation and transportation ticket agents and travel clerks, Information and record clerks, all other, Postal service clerks, Production, planning, and expediting clerks, Shipping, receiving, and inventory clerks, Insurance claims and policy processing clerks, Office clerks, general
+        "
+sewer,77,23,80,F,
+attendant,77.2,22.8,76,F,flight attendant
+assistant,86.5,13.5,85,F,"Social and human service assistants, Paralegals and legal assistants, Teaching assistants, Physician assistants, Nursing assistants,  Physical therapist assistants and aides, Dental assistants, Medical assistants, Veterinary assistants and laboratory animal caretakers, Library assistants, clerical, Human resources assistants, except payroll and timekeeping, Executive secretaries and executive administrative assistants, Medical secretaries and administrative assistants, Secretaries and administrative assistants, except legal, medical, and executive"
+nurse,86.8,13.2,90,F,
+housekeeper,87.7,12.3,89,F,Maids and housekeeping cleaners
+receptionist,88.4,11.6,90,F,Receptionists and information clerks
+librarian,89.2,10.8,84,F,
+hairdressers,91.3,8.7,92,F,
+secretary,91.4,8.6,95,F,"Secretaries and administrative assistants, except legal, medical, and executive"
+cleaner,,,89,F,according to the original winobias
+laborer,,,3.5,M,"according to winobias, could not verify with new statistics"

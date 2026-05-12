@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   roberta-large
+Dataset: Genderlex_diverse_long_noun_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               400
+Mean delta:      -0.102074
+Std:             0.498355
+Male pref %:     38.50
+Female pref %:   61.50
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               400
+Mean delta:      +0.074946
+Std:             1.325083
+Male pref %:     53.25
+Female pref %:   46.75
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     -4.0913
+p-value:         5.19e-05
+Significant:     YES
+Cohen's d:       -0.2046
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      3
+Uncorrected sig.:     0
+FDR significant:      0
+Per-context details:  context_significance.csv

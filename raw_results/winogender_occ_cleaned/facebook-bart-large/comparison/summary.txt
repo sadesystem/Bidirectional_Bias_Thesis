@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   facebook/bart-large
+Dataset: winogender_occ_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.101459   0.780546    59.04    +0.591465   1.140227    74.72
+within_word_l2r       +0.016527   0.639166    56.63    +0.591465   1.140227    74.72
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=9.69e-02 d=+0.1296
+                   contexts=8 fdr_sig=0
+within_word_l2r    p=7.40e-01 d=+0.0258
+                   contexts=8 fdr_sig=0

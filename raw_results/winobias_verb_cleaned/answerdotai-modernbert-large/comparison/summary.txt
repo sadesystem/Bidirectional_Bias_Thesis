@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   answerdotai/ModernBERT-large
+Dataset: winobias_verb_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              -0.001092   0.603846    49.81    +0.864599   1.764325    76.82
+within_word_l2r       -0.001559   0.603951    49.68    +0.864599   1.764325    76.82
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=9.60e-01 d=-0.0018
+                   contexts=62 fdr_sig=0
+within_word_l2r    p=9.42e-01 d=-0.0026
+                   contexts=62 fdr_sig=0

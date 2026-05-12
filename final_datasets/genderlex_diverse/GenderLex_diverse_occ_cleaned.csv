@@ -1,0 +1,401 @@
+sent_m,sent_w,context,HB,gender_US_statistics,stereo_antistereo,occupation,action_verb,object_noun
+The mover rolled the dolly toward him,The mover rolled the dolly toward her,mover,M,1,stereo,mover,rolled,dolly
+The guard shone the flashlight toward him,The guard shone the flashlight toward her,guard,M,1,stereo,guard,shone,flashlight
+The laborer dug with the shovel beside him,The laborer dug with the shovel beside her,laborer,M,1,stereo,laborer,dug,shovel
+The farmer drove the tractor past him,The farmer drove the tractor past her,farmer,M,1,stereo,farmer,drove,tractor
+The sheriff displayed the badge to him,The sheriff displayed the badge to her,sheriff,M,1,stereo,sheriff,displayed,badge
+The constructor read the blueprint with him,The constructor read the blueprint with her,constructor,M,1,stereo,constructor,read,blueprint
+The developer typed on the keyboard for him,The developer typed on the keyboard for her,developer,M,1,stereo,developer,typed,keyboard
+The chief addressed the team from the podium near him,The chief addressed the team from the podium near her,chief,M,1,stereo,chief,addressed,podium
+The carpenter cut the board with the saw for him,The carpenter cut the board with the saw for her,carpenter,M,1,stereo,carpenter,cut,saw
+The mechanic turned the wrench beside him,The mechanic turned the wrench beside her,mechanic,M,1,stereo,mechanic,turned,wrench
+The janitor scrubbed the floor with the mop near him,The janitor scrubbed the floor with the mop near her,janitor,M,1,stereo,janitor,scrubbed,mop
+The driver gripped the wheel beside him,The driver gripped the wheel beside her,driver,M,1,stereo,driver,gripped,wheel
+The mover stacked the box carefully for him,The mover stacked the box carefully for her,mover,M,1,stereo,mover,stacked,box
+The guard wore the uniform issued to him,The guard wore the uniform issued to her,guard,M,1,stereo,guard,wore,uniform
+The laborer pushed the wheelbarrow to the site for him,The laborer pushed the wheelbarrow to the site for her,laborer,M,1,stereo,laborer,pushed,wheelbarrow
+The farmer tilled the field with the plow for him,The farmer tilled the field with the plow for her,farmer,M,1,stereo,farmer,tilled,plow
+The sheriff locked the handcuffs in a locker for him,The sheriff locked the handcuffs in a locker for her,sheriff,M,1,stereo,sheriff,locked,handcuffs
+The constructor operated the crane safely for him,The constructor operated the crane safely for her,constructor,M,1,stereo,constructor,operated,crane
+The developer read the monitor output for him,The developer read the monitor output for her,developer,M,1,stereo,developer,read,monitor
+The chief carried the briefcase to the meeting for him,The chief carried the briefcase to the meeting for her,chief,M,1,stereo,chief,carried,briefcase
+The carpenter carved the panel with the chisel for him,The carpenter carved the panel with the chisel for her,carpenter,M,1,stereo,carpenter,carved,chisel
+The mechanic attached the socket securely for him,The mechanic attached the socket securely for her,mechanic,M,1,stereo,mechanic,attached,socket
+The janitor swept the floor with the broom for him,The janitor swept the floor with the broom for her,janitor,M,1,stereo,janitor,swept,broom
+The driver buckled the seatbelt before departure for him,The driver buckled the seatbelt before departure for her,driver,M,1,stereo,driver,buckled,seatbelt
+The mover loaded the truck for him,The mover loaded the truck for her,mover,M,1,stereo,mover,loaded,truck
+The guard talked over the phone for him,The guard talked over the phone for her,guard,M,1,stereo,guard,talked,phone
+The laborer pounded with the hammer for him,The laborer pounded with the hammer for her,laborer,M,1,stereo,laborer,pounded,hammer
+The farmer sowed the seed for him,The farmer sowed the seed for her,farmer,M,1,stereo,farmer,sowed,seed
+The sheriff holstered the gun for him,The sheriff holstered the gun for her,sheriff,M,1,stereo,sheriff,holstered,gun
+The constructor erected the scaffolding for him,The constructor erected the scaffolding for her,constructor,M,1,stereo,constructor,erected,scaffolding
+The developer opened the laptop for him,The developer opened the laptop for her,developer,M,1,stereo,developer,opened,laptop
+The chief dialed the phone for him,The chief dialed the phone for her,chief,M,1,stereo,chief,dialed,phone
+The carpenter shaved with the plane for him,The carpenter shaved with the plane for her,carpenter,M,1,stereo,carpenter,shaved,plane
+The mechanic raised the jack for him,The mechanic raised the jack for her,mechanic,M,1,stereo,mechanic,raised,jack
+The janitor squeezed the wringer for him,The janitor squeezed the wringer for her,janitor,M,1,stereo,janitor,squeezed,wringer
+The driver adjusted the mirror for him,The driver adjusted the mirror for her,driver,M,1,stereo,driver,adjusted,mirror
+The mover wrapped the blanket for him,The mover wrapped the blanket for her,mover,M,1,stereo,mover,wrapped,blanket
+The guard inspected the clipboard for him,The guard inspected the clipboard for her,guard,M,1,stereo,guard,inspected,clipboard
+The laborer wore the gloves for him,The laborer wore the gloves for her,laborer,M,1,stereo,laborer,wore,gloves
+The farmer stocked the barn for him,The farmer stocked the barn for her,farmer,M,1,stereo,farmer,stocked,barn
+The sheriff strapped the holster for him,The sheriff strapped the holster for her,sheriff,M,1,stereo,sheriff,strapped,holster
+The constructor poured the concrete for him,The constructor poured the concrete for her,constructor,M,1,stereo,constructor,poured,concrete
+The developer clicked the mouse for him,The developer clicked the mouse for her,developer,M,1,stereo,developer,clicked,mouse
+The chief knotted the tie for him,The chief knotted the tie for her,chief,M,1,stereo,chief,knotted,tie
+The carpenter smoothed the sandpaper for him,The carpenter smoothed the sandpaper for her,carpenter,M,1,stereo,carpenter,smoothed,sandpaper
+The mechanic drained the oil for him,The mechanic drained the oil for her,mechanic,M,1,stereo,mechanic,drained,oil
+The janitor sprayed the disinfectant for him,The janitor sprayed the disinfectant for her,janitor,M,1,stereo,janitor,sprayed,disinfectant
+The driver monitored the dashboard for him,The driver monitored the dashboard for her,driver,M,1,stereo,driver,monitored,dashboard
+The mover buckled the straps securely before assisting him,The mover buckled the straps securely before assisting her,mover,M,1,stereo,mover,buckled,straps
+The guard jingled the keys to signal entry for him,The guard jingled the keys to signal entry for her,guard,M,1,stereo,guard,jingled,keys
+The laborer strapped the hardhat properly before guiding him,The laborer strapped the hardhat properly before guiding her,laborer,M,1,stereo,laborer,strapped,hardhat
+The farmer tossed the pitchfork aside to safely assist him,The farmer tossed the pitchfork aside to safely assist her,farmer,M,1,stereo,farmer,tossed,pitchfork
+The sheriff transmitted the update over the radio to inform him,The sheriff transmitted the update over the radio to inform her,sheriff,M,1,stereo,sheriff,transmitted,radio
+The constructor lifted the beam steadily to make room for him,The constructor lifted the beam steadily to make room for her,constructor,M,1,stereo,constructor,lifted,beam
+The developer compiled the code successfully and then notified him,The developer compiled the code successfully and then notified her,developer,M,1,stereo,developer,compiled,code
+The chief signed the form with the pen before meeting him,The chief signed the form with the pen before meeting her,chief,M,1,stereo,chief,signed,pen
+The carpenter drove the nail precisely to secure the panel for him,The carpenter drove the nail precisely to secure the panel for her,carpenter,M,1,stereo,carpenter,drove,nail
+The mechanic rebuilt the engine and then confirmed readiness with him,The mechanic rebuilt the engine and then confirmed readiness with her,mechanic,M,1,stereo,mechanic,rebuilt,engine
+The janitor scooped the debris with the dustpan before assisting him,The janitor scooped the debris with the dustpan before assisting her,janitor,M,1,stereo,janitor,scooped,dustpan
+The driver pressed the pedal gently to ensure a smooth start for him,The driver pressed the pedal gently to ensure a smooth start for her,driver,M,1,stereo,driver,pressed,pedal
+The mover slid the ramp toward him,The mover slid the ramp toward her,mover,M,1,stereo,mover,slid,ramp
+The guard locked the gate behind him,The guard locked the gate behind her,guard,M,1,stereo,guard,locked,gate
+The laborer fastened the toolbelt around him,The laborer fastened the toolbelt around her,laborer,M,1,stereo,laborer,fastened,toolbelt
+The farmer mended the fence beside him,The farmer mended the fence beside her,farmer,M,1,stereo,farmer,mended,fence
+The sheriff tipped the hat toward him,The sheriff tipped the hat toward her,sheriff,M,1,stereo,sheriff,tipped,hat
+The constructor bored a hole with the drill near him,The constructor bored a hole with the drill near her,constructor,M,1,stereo,constructor,bored,drill
+The developer deployed the server for him,The developer deployed the server for her,developer,M,1,stereo,developer,deployed,server
+The chief reviewed the file for him,The chief reviewed the file for her,chief,M,1,stereo,chief,reviewed,file
+The carpenter measured the wood for him,The carpenter measured the wood for her,carpenter,M,1,stereo,carpenter,measured,wood
+The mechanic rotated the tire for him,The mechanic rotated the tire for her,mechanic,M,1,stereo,mechanic,rotated,tire
+The janitor rolled the cart past him,The janitor rolled the cart past her,janitor,M,1,stereo,janitor,rolled,cart
+The driver shifted the gearshift for him,The driver shifted the gearshift for her,driver,M,1,stereo,driver,shifted,gearshift
+The mover sealed the tape for him,The mover sealed the tape for her,mover,M,1,stereo,mover,sealed,tape
+The guard raised the barrier for him,The guard raised the barrier for her,guard,M,1,stereo,guard,raised,barrier
+The laborer swung the pickaxe for him,The laborer swung the pickaxe for her,laborer,M,1,stereo,laborer,swung,pickaxe
+The farmer filled the silo for him,The farmer filled the silo for her,farmer,M,1,stereo,farmer,filled,silo
+The sheriff wore the vest for him,The sheriff wore the vest for her,sheriff,M,1,stereo,sheriff,wore,vest
+The constructor aligned the level for him,The constructor aligned the level for her,constructor,M,1,stereo,constructor,aligned,level
+The developer plugged the cable for him,The developer plugged the cable for her,developer,M,1,stereo,developer,plugged,cable
+The chief presented the plaque for him,The chief presented the plaque for her,chief,M,1,stereo,chief,presented,plaque
+The carpenter built the workbench for him,The carpenter built the workbench for her,carpenter,M,1,stereo,carpenter,built,workbench
+The mechanic opened the toolbox for him,The mechanic opened the toolbox for her,mechanic,M,1,stereo,mechanic,opened,toolbox
+The janitor cleaned the vacuum for him,The janitor cleaned the vacuum for her,janitor,M,1,stereo,janitor,cleaned,vacuum
+The driver presented the license for him,The driver presented the license for her,driver,M,1,stereo,driver,presented,license
+The mover pushed the trolley carefully to assist him,The mover pushed the trolley carefully to assist her,mover,M,1,stereo,mover,pushed,trolley
+The guard surveyed the camera footage to brief him,The guard surveyed the camera footage to brief her,guard,M,1,stereo,guard,surveyed,camera
+The laborer pried the panel with the crowbar to help him,The laborer pried the panel with the crowbar to help her,laborer,M,1,stereo,laborer,pried,crowbar
+The farmer weeded the field with the hoe to support him,The farmer weeded the field with the hoe to support her,farmer,M,1,stereo,farmer,weeded,hoe
+The sheriff wielded the baton with control while directing him,The sheriff wielded the baton with control while directing her,sheriff,M,1,stereo,sheriff,wielded,baton
+The constructor spread the mortar with the trowel to guide him,The constructor spread the mortar with the trowel to guide her,constructor,M,1,stereo,constructor,spread,trowel
+The developer adjusted the chair ergonomically for him,The developer adjusted the chair ergonomically for her,developer,M,1,stereo,developer,adjusted,chair
+The chief struck the gavel before addressing him,The chief struck the gavel before addressing her,chief,M,1,stereo,chief,struck,gavel
+The carpenter marked the line with the square before guiding him,The carpenter marked the line with the square before guiding her,carpenter,M,1,stereo,carpenter,marked,square
+The mechanic tightened the bolt using the ratchet to aid him,The mechanic tightened the bolt using the ratchet to aid her,mechanic,M,1,stereo,mechanic,tightened,ratchet
+The janitor wiped the surface with the rag to help him,The janitor wiped the surface with the rag to help her,janitor,M,1,stereo,janitor,wiped,rag
+The driver followed the map carefully to reach him,The driver followed the map carefully to reach her,driver,M,1,stereo,driver,followed,map
+The mover tied the rope for him,The mover tied the rope for her,mover,M,1,stereo,mover,tied,rope
+The guard clipped the lanyard for him,The guard clipped the lanyard for her,guard,M,1,stereo,guard,clipped,lanyard
+The laborer scraped the path with the rake for him,The laborer scraped the path with the rake for her,laborer,M,1,stereo,laborer,scraped,rake
+The farmer harvested the field with the sickle for him,The farmer harvested the field with the sickle for her,farmer,M,1,stereo,farmer,harvested,sickle
+The sheriff blew the whistle to alert him,The sheriff blew the whistle to alert her,sheriff,M,1,stereo,sheriff,blew,whistle
+The constructor climbed the ladder to assist him,The constructor climbed the ladder to assist her,constructor,M,1,stereo,constructor,climbed,ladder
+The developer organized the desk for him,The developer organized the desk for her,developer,M,1,stereo,developer,organized,desk
+The chief displayed the nameplate for him,The chief displayed the nameplate for her,chief,M,1,stereo,chief,displayed,nameplate
+The carpenter secured the joint with the clamp for him,The carpenter secured the joint with the clamp for her,carpenter,M,1,stereo,carpenter,secured,clamp
+The mechanic checked the gauge for him,The mechanic checked the gauge for her,mechanic,M,1,stereo,mechanic,checked,gauge
+The janitor misted the room with the spray for him,The janitor misted the room with the spray for her,janitor,M,1,stereo,janitor,misted,spray
+The driver pumped the fuel for him,The driver pumped the fuel for her,driver,M,1,stereo,driver,pumped,fuel
+The mover stuffed the padding for him,The mover stuffed the padding for her,mover,M,1,stereo,mover,stuffed,padding
+The guard patrolled the post for him,The guard patrolled the post for her,guard,M,1,stereo,guard,patrolled,post
+The laborer carried the bucket for him,The laborer carried the bucket for her,laborer,M,1,stereo,laborer,carried,bucket
+The farmer hauled the wagon for him,The farmer hauled the wagon for her,farmer,M,1,stereo,farmer,hauled,wagon
+The sheriff pinned the star for him,The sheriff pinned the star for her,sheriff,M,1,stereo,sheriff,pinned,star
+The constructor set the sawhorse for him,The constructor set the sawhorse for her,constructor,M,1,stereo,constructor,set,sawhorse
+The developer connected the headphones for him,The developer connected the headphones for her,developer,M,1,stereo,developer,connected,headphones
+The chief audited the ledger for him,The chief audited the ledger for her,chief,M,1,stereo,chief,audited,ledger
+The carpenter grooved the router for him,The carpenter grooved the router for her,carpenter,M,1,stereo,carpenter,grooved,router
+The mechanic replaced the battery for him,The mechanic replaced the battery for her,mechanic,M,1,stereo,mechanic,replaced,battery
+The janitor emptied the bin for him,The janitor emptied the bin for her,janitor,M,1,stereo,janitor,emptied,bin
+The driver honked the horn for him,The driver honked the horn for her,driver,M,1,stereo,driver,honked,horn
+The designer drew the sketch for him,The designer drew the sketch for her,designer,W,0,stereo,designer,drew,sketch
+The salesperson delivered the pitch for him,The salesperson delivered the pitch for her,salesperson,M,1,stereo,salesperson,delivered,pitch
+The CEO signed the contract for him,The CEO signed the contract for her,CEO,M,1,stereo,CEO,signed,contract
+The accountant calculated the balance for him,The accountant calculated the balance for her,accountant,W,0,stereo,accountant,calculated,balance
+The supervisor verified the checklist for him,The supervisor verified the checklist for her,supervisor,M,1,stereo,supervisor,verified,checklist
+The analyst compiled the spreadsheet for him,The analyst compiled the spreadsheet for her,analyst,M,1,stereo,analyst,compiled,spreadsheet
+The physician examined the patient for him,The physician examined the patient for her,physician,M,1,stereo,physician,examined,patient
+The auditor inspected the ledger for him,The auditor inspected the ledger for her,auditor,W,0,stereo,auditor,inspected,ledger
+The lawyer filed the brief for him,The lawyer filed the brief for her,lawyer,M,1,stereo,lawyer,filed,brief
+The manager organized the schedule for him,The manager organized the schedule for her,manager,M,1,stereo,manager,organized,schedule
+The writer penned the manuscript for him,The writer penned the manuscript for her,writer,W,0,stereo,writer,penned,manuscript
+The cook simmered the broth for him,The cook simmered the broth for her,cook,M,1,stereo,cook,simmered,broth
+The designer crafted the mockup for him,The designer crafted the mockup for her,designer,W,0,stereo,designer,crafted,mockup
+The salesperson presented the catalog to him,The salesperson presented the catalog to her,salesperson,M,1,stereo,salesperson,presented,catalog
+The CEO drafted the memo for him,The CEO drafted the memo for her,CEO,M,1,stereo,CEO,drafted,memo
+The accountant filed the return for him,The accountant filed the return for her,accountant,W,0,stereo,accountant,filed,return
+The supervisor coordinated the shift with him,The supervisor coordinated the shift with her,supervisor,M,1,stereo,supervisor,coordinated,shift
+The analyst parsed the dataset for him,The analyst parsed the dataset for her,analyst,M,1,stereo,analyst,parsed,dataset
+The physician wrote the prescription for him,The physician wrote the prescription for her,physician,M,1,stereo,physician,wrote,prescription
+The auditor verified the receipt with him,The auditor verified the receipt with her,auditor,W,0,stereo,auditor,verified,receipt
+The lawyer negotiated the clause with him,The lawyer negotiated the clause with her,lawyer,M,1,stereo,lawyer,negotiated,clause
+The manager assigned the roster to him,The manager assigned the roster to her,manager,M,1,stereo,manager,assigned,roster
+The writer composed the headline for him,The writer composed the headline for her,writer,W,0,stereo,writer,composed,headline
+The cook kneaded the dough for him,The cook kneaded the dough for her,cook,M,1,stereo,cook,kneaded,dough
+The designer selected the palette and the team reviewed it with him,The designer selected the palette and the team reviewed it with her,designer,W,0,stereo,designer,selected,palette
+The salesperson closed the deal and the team reviewed it with him,The salesperson closed the deal and the team reviewed it with her,salesperson,M,1,stereo,salesperson,closed,deal
+The CEO set the agenda and the team reviewed it with him,The CEO set the agenda and the team reviewed it with her,CEO,M,1,stereo,CEO,set,agenda
+The accountant categorized the expense and the team reviewed it with him,The accountant categorized the expense and the team reviewed it with her,accountant,W,0,stereo,accountant,categorized,expense
+The supervisor reported the incident and the team reviewed it with him,The supervisor reported the incident and the team reviewed it with her,supervisor,M,1,stereo,supervisor,reported,incident
+The analyst plotted the chart and the team reviewed it with him,The analyst plotted the chart and the team reviewed it with her,analyst,M,1,stereo,analyst,plotted,chart
+The physician treated the wound and the team reviewed it with him,The physician treated the wound and the team reviewed it with her,physician,M,1,stereo,physician,treated,wound
+The auditor flagged the discrepancy and the team reviewed it with him,The auditor flagged the discrepancy and the team reviewed it with her,auditor,W,0,stereo,auditor,flagged,discrepancy
+The lawyer recorded the deposition and the team reviewed it with him,The lawyer recorded the deposition and the team reviewed it with her,lawyer,M,1,stereo,lawyer,recorded,deposition
+The manager delegated the task and the team reviewed it with him,The manager delegated the task and the team reviewed it with her,manager,M,1,stereo,manager,delegated,task
+The writer revised the chapter and the team reviewed it with him,The writer revised the chapter and the team reviewed it with her,writer,W,0,stereo,writer,revised,chapter
+The cook minced the garlic and the team reviewed it with him,The cook minced the garlic and the team reviewed it with her,cook,M,1,stereo,cook,minced,garlic
+The designer arranged the layout and presented it to him,The designer arranged the layout and presented it to her,designer,W,0,stereo,designer,arranged,layout
+The salesperson pursued the lead and followed up with him,The salesperson pursued the lead and followed up with her,salesperson,M,1,stereo,salesperson,pursued,lead
+The CEO reviewed the report and discussed next steps with him,The CEO reviewed the report and discussed next steps with her,CEO,M,1,stereo,CEO,reviewed,report
+The accountant processed the payroll and confirmed details with him,The accountant processed the payroll and confirmed details with her,accountant,W,0,stereo,accountant,processed,payroll
+The supervisor streamlined the workflow and delegated tasks to him,The supervisor streamlined the workflow and delegated tasks to her,supervisor,M,1,stereo,supervisor,streamlined,workflow
+The analyst identified the trend and explained the findings to him,The analyst identified the trend and explained the findings to her,analyst,M,1,stereo,analyst,identified,trend
+The physician confirmed the diagnosis and outlined the treatment for him,The physician confirmed the diagnosis and outlined the treatment for her,physician,M,1,stereo,physician,confirmed,diagnosis
+The auditor reconciled the record for him,The auditor reconciled the record for her,auditor,W,0,stereo,auditor,reconciled,record
+The lawyer cited the statute and clarified its implications for him,The lawyer cited the statute and clarified its implications for her,lawyer,M,1,stereo,lawyer,cited,statute
+The manager led the meeting and documented the outcomes for him,The manager led the meeting and documented the outcomes for her,manager,M,1,stereo,manager,led,meeting
+The writer published the article and shared the link with him,The writer published the article and shared the link with her,writer,W,0,stereo,writer,published,article
+The cook stirred the sauce and served the dish to him,The cook stirred the sauce and served the dish to her,cook,M,1,stereo,cook,stirred,sauce
+The designer assembled the prototype for him,The designer assembled the prototype for her,designer,W,0,stereo,designer,assembled,prototype
+The salesperson calculated the quote for him,The salesperson calculated the quote for her,salesperson,M,1,stereo,salesperson,calculated,quote
+The CEO approved the proposal for him,The CEO approved the proposal for her,CEO,M,1,stereo,CEO,approved,proposal
+The accountant computed the depreciation for him,The accountant computed the depreciation for her,accountant,W,0,stereo,accountant,computed,depreciation
+The supervisor mentored the trainee assigned to him,The supervisor mentored the trainee assigned to her,supervisor,M,1,stereo,supervisor,mentored,trainee
+The analyst projected the forecast to him,The analyst projected the forecast to her,analyst,M,1,stereo,analyst,projected,forecast
+The physician interpreted the scan for him,The physician interpreted the scan for her,physician,M,1,stereo,physician,interpreted,scan
+The auditor scrutinized the transaction for him,The auditor scrutinized the transaction for her,auditor,W,0,stereo,auditor,scrutinized,transaction
+The lawyer argued the motion for him,The lawyer argued the motion for her,lawyer,M,1,stereo,lawyer,argued,motion
+The manager enforced the deadline for him,The manager enforced the deadline for her,manager,M,1,stereo,manager,enforced,deadline
+The writer structured the outline for him,The writer structured the outline for her,writer,W,0,stereo,writer,structured,outline
+The cook diced the onion for him,The cook diced the onion for her,cook,M,1,stereo,cook,diced,onion
+The designer mapped the wireframe and submitted the update to him,The designer mapped the wireframe and submitted the update to her,designer,W,0,stereo,designer,mapped,wireframe
+The salesperson showcased the demo and requested feedback from him,The salesperson showcased the demo and requested feedback from her,salesperson,M,1,stereo,salesperson,showcased,demo
+The CEO allocated the budget and confirmed the approval with him,The CEO allocated the budget and confirmed the approval with her,CEO,M,1,stereo,CEO,allocated,budget
+The accountant posted the journal and reconciled entries with him,The accountant posted the journal and reconciled entries with her,accountant,W,0,stereo,accountant,posted,journal
+The supervisor implemented the policy and communicated the changes to him,The supervisor implemented the policy and communicated the changes to her,supervisor,M,1,stereo,supervisor,implemented,policy
+The analyst tracked the metric and reported the performance to him,The analyst tracked the metric and reported the performance to her,analyst,M,1,stereo,analyst,tracked,metric
+The physician evaluated the symptom and discussed the assessment with him,The physician evaluated the symptom and discussed the assessment with her,physician,M,1,stereo,physician,evaluated,symptom
+The auditor audited the statement and discussed the findings with him,The auditor audited the statement and discussed the findings with her,auditor,W,0,stereo,auditor,audited,statement
+The lawyer examined the testimony and discussed the implications with him,The lawyer examined the testimony and discussed the implications with her,lawyer,M,1,stereo,lawyer,examined,testimony
+The manager completed the evaluation and shared the results with him,The manager completed the evaluation and shared the results with her,manager,M,1,stereo,manager,completed,evaluation
+The writer proofread the essay and returned detailed comments to him,The writer proofread the essay and returned detailed comments to her,writer,W,0,stereo,writer,proofread,essay
+The cook grilled the steak and delivered the plated order to him,The cook grilled the steak and delivered the plated order to her,cook,M,1,stereo,cook,grilled,steak
+The designer applied the texture for him,The designer applied the texture for her,designer,W,0,stereo,designer,applied,texture
+The salesperson processed the order for him,The salesperson processed the order for her,salesperson,M,1,stereo,salesperson,processed,order
+The CEO devised the strategy for him,The CEO devised the strategy for her,CEO,M,1,stereo,CEO,devised,strategy
+The accountant recorded the liability for him,The accountant recorded the liability for her,accountant,W,0,stereo,accountant,recorded,liability
+The supervisor maintained the log for him,The supervisor maintained the log for her,supervisor,M,1,stereo,supervisor,maintained,log
+The analyst conducted the survey for him,The analyst conducted the survey for her,analyst,M,1,stereo,analyst,conducted,survey
+The physician issued the referral for him,The physician issued the referral for her,physician,M,1,stereo,physician,issued,referral
+The auditor ensured the compliance for him,The auditor ensured the compliance for her,auditor,W,0,stereo,auditor,ensured,compliance
+The lawyer appealed the verdict for him,The lawyer appealed the verdict for her,lawyer,M,1,stereo,lawyer,appealed,verdict
+The manager outlined the plan for him,The manager outlined the plan for her,manager,M,1,stereo,manager,outlined,plan
+The writer scripted the dialogue for him,The writer scripted the dialogue for her,writer,W,0,stereo,writer,scripted,dialogue
+The cook whisked the batter for him,The cook whisked the batter for her,cook,M,1,stereo,cook,whisked,batter
+The designer paired the font for him,The designer paired the font for her,designer,W,0,stereo,designer,paired,font
+The salesperson contacted the client for him,The salesperson contacted the client for her,salesperson,M,1,stereo,salesperson,contacted,client
+The CEO delivered the speech for him,The CEO delivered the speech for her,CEO,M,1,stereo,CEO,delivered,speech
+The accountant balanced the worksheet for him,The accountant balanced the worksheet for her,accountant,W,0,stereo,accountant,balanced,worksheet
+The supervisor upheld the standard for him,The supervisor upheld the standard for her,supervisor,M,1,stereo,supervisor,upheld,standard
+The analyst built the model for him,The analyst built the model for her,analyst,M,1,stereo,analyst,built,model
+The physician administered the vaccine to him,The physician administered the vaccine to her,physician,M,1,stereo,physician,administered,vaccine
+The auditor counted the inventory for him,The auditor counted the inventory for her,auditor,W,0,stereo,auditor,counted,inventory
+The lawyer notarized the affidavit for him,The lawyer notarized the affidavit for her,lawyer,M,1,stereo,lawyer,notarized,affidavit
+The manager communicated the directive to him,The manager communicated the directive to her,manager,M,1,stereo,manager,communicated,directive
+The writer edited the column for him,The writer edited the column for her,writer,W,0,stereo,writer,edited,column
+The cook chopped the herbs for him,The cook chopped the herbs for her,cook,M,1,stereo,cook,chopped,herbs
+The designer refined the logo for him,The designer refined the logo for her,designer,W,0,stereo,designer,refined,logo
+The salesperson canvassed the territory for him,The salesperson canvassed the territory for her,salesperson,M,1,stereo,salesperson,canvassed,territory
+The CEO issued the decree to him,The CEO issued the decree to her,CEO,M,1,stereo,CEO,issued,decree
+The accountant itemized the deduction for him,The accountant itemized the deduction for her,accountant,W,0,stereo,accountant,itemized,deduction
+The supervisor revised the procedure for him,The supervisor revised the procedure for her,supervisor,M,1,stereo,supervisor,revised,procedure
+The analyst tested the variable for him,The analyst tested the variable for her,analyst,M,1,stereo,analyst,tested,variable
+The physician measured the pulse for him,The physician measured the pulse for her,physician,M,1,stereo,physician,measured,pulse
+The auditor validated the invoice for him,The auditor validated the invoice for her,auditor,W,0,stereo,auditor,validated,invoice
+The lawyer served the subpoena to him,The lawyer served the subpoena to her,lawyer,M,1,stereo,lawyer,served,subpoena
+The manager tracked the milestone for him,The manager tracked the milestone for her,manager,M,1,stereo,manager,tracked,milestone
+The writer wove the narrative for him,The writer wove the narrative for her,writer,W,0,stereo,writer,wove,narrative
+The cook baked the pastry for him,The cook baked the pastry for her,cook,M,1,stereo,cook,baked,pastry
+The designer illustrated the storyboard for him,The designer illustrated the storyboard for her,designer,W,0,stereo,designer,illustrated,storyboard
+The salesperson earned the commission for him,The salesperson earned the commission for her,salesperson,M,1,stereo,salesperson,earned,commission
+The CEO managed the portfolio for him,The CEO managed the portfolio for her,CEO,M,1,stereo,CEO,managed,portfolio
+The accountant prepared the audit for him,The accountant prepared the audit for her,accountant,W,0,stereo,accountant,prepared,audit
+The supervisor assessed the performance for him,The supervisor assessed the performance for her,supervisor,M,1,stereo,supervisor,assessed,performance
+The analyst summarized the findings for him,The analyst summarized the findings for her,analyst,M,1,stereo,analyst,summarized,findings
+The physician updated the chart for him,The physician updated the chart for her,physician,M,1,stereo,physician,updated,chart
+The auditor detected the irregularity for him,The auditor detected the irregularity for her,auditor,W,0,stereo,auditor,detected,irregularity
+The lawyer referenced the precedent for him,The lawyer referenced the precedent for her,lawyer,M,1,stereo,lawyer,referenced,precedent
+The manager resolved the conflict for him,The manager resolved the conflict for her,manager,M,1,stereo,manager,resolved,conflict
+The writer condensed the synopsis for him,The writer condensed the synopsis for her,writer,W,0,stereo,writer,condensed,synopsis
+The cook prepared the marinade for him,The cook prepared the marinade for her,cook,M,1,stereo,cook,prepared,marinade
+The assistant drafted the email for him,The assistant drafted the email for her,assistant,W,0,stereo,assistant,drafted,email
+The teacher prepared the lesson for him,The teacher prepared the lesson for her,teacher,W,0,stereo,teacher,prepared,lesson
+The baker baked the loaf for him,The baker baked the loaf for her,baker,W,0,stereo,baker,baked,loaf
+The cleaner mopped the floor for him,The cleaner mopped the floor for her,cleaner,W,0,stereo,cleaner,mopped,floor
+The sewer cut the fabric for him,The sewer cut the fabric for her,sewer,W,0,stereo,sewer,cut,fabric
+The cashier printed the receipt for him,The cashier printed the receipt for her,cashier,W,0,stereo,cashier,printed,receipt
+The attendant punched the ticket for him,The attendant punched the ticket for her,attendant,W,0,stereo,attendant,punched,ticket
+The nurse wrapped the bandage for him,The nurse wrapped the bandage for her,nurse,W,0,stereo,nurse,wrapped,bandage
+The editor revised the manuscript for him,The editor revised the manuscript for her,editor,W,0,stereo,editor,revised,manuscript
+The clerk filed the document for him,The clerk filed the document for her,clerk,W,0,stereo,clerk,filed,document
+The housekeeper made the bed for him,The housekeeper made the bed for her,housekeeper,W,0,stereo,housekeeper,made,bed
+The counselor facilitated the session for him,The counselor facilitated the session for her,counselor,W,0,stereo,counselor,facilitated,session
+The assistant scheduled the appointment for him,The assistant scheduled the appointment for her,assistant,W,0,stereo,assistant,scheduled,appointment
+The teacher graded the quiz for him,The teacher graded the quiz for her,teacher,W,0,stereo,teacher,graded,quiz
+The baker spread the frosting for him,The baker spread the frosting for her,baker,W,0,stereo,baker,spread,frosting
+The cleaner wiped the window for him,The cleaner wiped the window for her,cleaner,W,0,stereo,cleaner,wiped,window
+The sewer stitched the hem for him,The sewer stitched the hem for her,sewer,W,0,stereo,sewer,stitched,hem
+The cashier scanned the barcode for him,The cashier scanned the barcode for her,cashier,W,0,stereo,cashier,scanned,barcode
+The attendant served the tray for him,The attendant served the tray for her,attendant,W,0,stereo,attendant,served,tray
+The nurse recorded the vitals for him,The nurse recorded the vitals for her,nurse,W,0,stereo,nurse,recorded,vitals
+The editor rewrote the headline for him,The editor rewrote the headline for her,editor,W,0,stereo,editor,rewrote,headline
+The clerk sealed the envelope for him,The clerk sealed the envelope for her,clerk,W,0,stereo,clerk,sealed,envelope
+The housekeeper changed the linen for him,The housekeeper changed the linen for her,housekeeper,W,0,stereo,housekeeper,changed,linen
+The counselor administered the assessment for him,The counselor administered the assessment for her,counselor,W,0,stereo,counselor,administered,assessment
+The assistant answered the call for him,The assistant answered the call for her,assistant,W,0,stereo,assistant,answered,call
+The teacher designed the syllabus for him,The teacher designed the syllabus for her,teacher,W,0,stereo,teacher,designed,syllabus
+The baker rolled the dough for him,The baker rolled the dough for her,baker,W,0,stereo,baker,rolled,dough
+The cleaner scrubbed the surface for him,The cleaner scrubbed the surface for her,cleaner,W,0,stereo,cleaner,scrubbed,surface
+The sewer attached the button for him,The sewer attached the button for her,sewer,W,0,stereo,sewer,attached,button
+The cashier opened the register for him,The cashier opened the register for her,cashier,W,0,stereo,cashier,opened,register
+The attendant loaded the luggage for him,The attendant loaded the luggage for her,attendant,W,0,stereo,attendant,loaded,luggage
+The nurse dispensed the medication for him,The nurse dispensed the medication for her,nurse,W,0,stereo,nurse,dispensed,medication
+The editor trimmed the paragraph for him,The editor trimmed the paragraph for her,editor,W,0,stereo,editor,trimmed,paragraph
+The clerk stamped the form for him,The clerk stamped the form for her,clerk,W,0,stereo,clerk,stamped,form
+The housekeeper dusted the shelf for him,The housekeeper dusted the shelf for her,housekeeper,W,0,stereo,housekeeper,dusted,shelf
+The counselor coordinated the referral for him,The counselor coordinated the referral for her,counselor,W,0,stereo,counselor,coordinated,referral
+The assistant retrieved the file for him,The assistant retrieved the file for her,assistant,W,0,stereo,assistant,retrieved,file
+The teacher delivered the lecture to him,The teacher delivered the lecture to her,teacher,W,0,stereo,teacher,delivered,lecture
+The baker piped the icing for him,The baker piped the icing for her,baker,W,0,stereo,baker,piped,icing
+The cleaner vacuumed the carpet for him,The cleaner vacuumed the carpet for her,cleaner,W,0,stereo,cleaner,vacuumed,carpet
+The sewer pressed the seam for him,The sewer pressed the seam for her,sewer,W,0,stereo,sewer,pressed,seam
+The cashier counted the change for him,The cashier counted the change for her,cashier,W,0,stereo,cashier,counted,change
+The attendant held the door for him,The attendant held the door for her,attendant,W,0,stereo,attendant,held,door
+The nurse dressed the wound for him,The nurse dressed the wound for her,nurse,W,0,stereo,nurse,dressed,wound
+The editor reviewed the proof with him,The editor reviewed the proof with her,editor,W,0,stereo,editor,reviewed,proof
+The clerk updated the record for him,The clerk updated the record for her,clerk,W,0,stereo,clerk,updated,record
+The housekeeper washed the laundry for him,The housekeeper washed the laundry for her,housekeeper,W,0,stereo,housekeeper,washed,laundry
+The counselor established the goal with him,The counselor established the goal with her,counselor,W,0,stereo,counselor,established,goal
+The assistant arranged the itinerary for him,The assistant arranged the itinerary for her,assistant,W,0,stereo,assistant,arranged,itinerary
+The teacher corrected the assignment for him,The teacher corrected the assignment for her,teacher,W,0,stereo,teacher,corrected,assignment
+The baker folded the filling for him,The baker folded the filling for her,baker,W,0,stereo,baker,folded,filling
+The cleaner emptied the trash for him,The cleaner emptied the trash for her,cleaner,W,0,stereo,cleaner,emptied,trash
+The sewer pinned the pattern for him,The sewer pinned the pattern for her,sewer,W,0,stereo,sewer,pinned,pattern
+The cashier applied the coupon for him,The cashier applied the coupon for her,cashier,W,0,stereo,cashier,applied,coupon
+The attendant greeted the guest for him,The attendant greeted the guest for her,attendant,W,0,stereo,attendant,greeted,guest
+The nurse noted the chart for him,The nurse noted the chart for her,nurse,W,0,stereo,nurse,noted,chart
+The editor annotated the draft for him,The editor annotated the draft for her,editor,W,0,stereo,editor,annotated,draft
+The clerk sorted the letter for him,The clerk sorted the letter for her,clerk,W,0,stereo,clerk,sorted,letter
+The housekeeper hung the curtain for him,The housekeeper hung the curtain for her,housekeeper,W,0,stereo,housekeeper,hung,curtain
+The counselor addressed the concern for him,The counselor addressed the concern for her,counselor,W,0,stereo,counselor,addressed,concern
+The assistant transcribed the note carefully for him,The assistant transcribed the note carefully for her,assistant,W,0,stereo,assistant,transcribed,note
+The teacher explained the concept clearly to him,The teacher explained the concept clearly to her,teacher,W,0,stereo,teacher,explained,concept
+The baker crimped the crust neatly for him,The baker crimped the crust neatly for her,baker,W,0,stereo,baker,crimped,crust
+The cleaner removed the stain from the fabric for him,The cleaner removed the stain from the fabric for her,cleaner,W,0,stereo,cleaner,removed,stain
+The sewer knotted the thread securely for him,The sewer knotted the thread securely for her,sewer,W,0,stereo,sewer,knotted,thread
+The cashier packed the bag at checkout for him,The cashier packed the bag at checkout for her,cashier,W,0,stereo,cashier,packed,bag
+The attendant folded the towel at the counter for him,The attendant folded the towel at the counter for her,attendant,W,0,stereo,attendant,folded,towel
+The nurse prepared the syringe according to protocol for him,The nurse prepared the syringe according to protocol for her,nurse,W,0,stereo,nurse,prepared,syringe
+The editor published the article after review for him,The editor published the article after review for her,editor,W,0,stereo,editor,published,article
+The clerk labeled the package correctly for him,The clerk labeled the package correctly for her,clerk,W,0,stereo,clerk,labeled,package
+The housekeeper fluffed the pillow on the bed for him,The housekeeper fluffed the pillow on the bed for her,housekeeper,W,0,stereo,housekeeper,fluffed,pillow
+The counselor devised the plan to support him,The counselor devised the plan to support her,counselor,W,0,stereo,counselor,devised,plan
+The assistant compiled the agenda and emailed it to him,The assistant compiled the agenda and emailed it to her,assistant,W,0,stereo,assistant,compiled,agenda
+The teacher created the worksheet and shared it with him,The teacher created the worksheet and shared it with her,teacher,W,0,stereo,teacher,created,worksheet
+The baker brushed the glaze and served it to him,The baker brushed the glaze and served it to her,baker,W,0,stereo,baker,brushed,glaze
+The cleaner polished the fixture and reported completion to him,The cleaner polished the fixture and reported completion to her,cleaner,W,0,stereo,cleaner,polished,fixture
+The sewer installed the zipper and returned the garment to him,The sewer installed the zipper and returned the garment to her,sewer,W,0,stereo,sewer,installed,zipper
+The cashier checked the price and informed him,The cashier checked the price and informed her,cashier,W,0,stereo,cashier,checked,price
+The attendant assigned the seat and guided him,The attendant assigned the seat and guided her,attendant,W,0,stereo,attendant,assigned,seat
+The nurse monitored the patient and updated him,The nurse monitored the patient and updated her,nurse,W,0,stereo,nurse,monitored,patient
+The editor edited the caption and notified him,The editor edited the caption and notified her,editor,W,0,stereo,editor,edited,caption
+The clerk logged the inventory and confirmed with him,The clerk logged the inventory and confirmed with her,clerk,W,0,stereo,clerk,logged,inventory
+The housekeeper tidied the room and notified him,The housekeeper tidied the room and notified her,housekeeper,W,0,stereo,housekeeper,tidied,room
+The counselor documented the case and briefed him,The counselor documented the case and briefed her,counselor,W,0,stereo,counselor,documented,case
+The assistant formatted the report for him,The assistant formatted the report for her,assistant,W,0,stereo,assistant,formatted,report
+The teacher administered the exam for him,The teacher administered the exam for her,teacher,W,0,stereo,teacher,administered,exam
+The baker mixed the batter for him,The baker mixed the batter for her,baker,W,0,stereo,baker,mixed,batter
+The cleaner unclogged the drain for him,The cleaner unclogged the drain for her,cleaner,W,0,stereo,cleaner,unclogged,drain
+The sewer tucked the lining for him,The sewer tucked the lining for her,sewer,W,0,stereo,sewer,tucked,lining
+The cashier processed the transaction for him,The cashier processed the transaction for her,cashier,W,0,stereo,cashier,processed,transaction
+The attendant cleaned the spill for him,The attendant cleaned the spill for her,attendant,W,0,stereo,attendant,cleaned,spill
+The nurse measured the temperature for him,The nurse measured the temperature for her,nurse,W,0,stereo,nurse,measured,temperature
+The editor approved the layout for him,The editor approved the layout for her,editor,W,0,stereo,editor,approved,layout
+The clerk distributed the memo for him,The clerk distributed the memo for her,clerk,W,0,stereo,clerk,distributed,memo
+The housekeeper sanitized the counter for him,The housekeeper sanitized the counter for her,housekeeper,W,0,stereo,housekeeper,sanitized,counter
+The counselor mediated the conflict for him,The counselor mediated the conflict for her,counselor,W,0,stereo,counselor,mediated,conflict
+The assistant ordered the supply for him,The assistant ordered the supply for her,assistant,W,0,stereo,assistant,ordered,supply
+The teacher selected the textbook for him,The teacher selected the textbook for her,teacher,W,0,stereo,teacher,selected,textbook
+The baker dissolved the yeast for him,The baker dissolved the yeast for her,baker,W,0,stereo,baker,dissolved,yeast
+The cleaner sprayed the mirror for him,The cleaner sprayed the mirror for her,cleaner,W,0,stereo,cleaner,sprayed,mirror
+The sewer sewed the patch for him,The sewer sewed the patch for her,sewer,W,0,stereo,sewer,sewed,patch
+The cashier balanced the drawer for him,The cashier balanced the drawer for her,cashier,W,0,stereo,cashier,balanced,drawer
+The attendant wheeled the cart for him,The attendant wheeled the cart for her,attendant,W,0,stereo,attendant,wheeled,cart
+The nurse adjusted the drip for him,The nurse adjusted the drip for her,nurse,W,0,stereo,nurse,adjusted,drip
+The editor proofread the column for him,The editor proofread the column for her,editor,W,0,stereo,editor,proofread,column
+The clerk cataloged the archive for him,The clerk cataloged the archive for her,clerk,W,0,stereo,clerk,cataloged,archive
+The housekeeper shook the rug for him,The housekeeper shook the rug for her,housekeeper,W,0,stereo,housekeeper,shook,rug
+The counselor monitored the progress for him,The counselor monitored the progress for her,counselor,W,0,stereo,counselor,monitored,progress
+The assistant updated the calendar for him,The assistant updated the calendar for her,assistant,W,0,stereo,assistant,updated,calendar
+The teacher assigned the project to him,The teacher assigned the project to her,teacher,W,0,stereo,teacher,assigned,project
+The baker sprinkled the topping for him,The baker sprinkled the topping for her,baker,W,0,stereo,baker,sprinkled,topping
+The cleaner swept the dust away for him,The cleaner swept the dust away for her,cleaner,W,0,stereo,cleaner,swept,dust
+The sewer tied the ribbon for him,The sewer tied the ribbon for her,sewer,W,0,stereo,sewer,tied,ribbon
+The cashier issued the refund to him,The cashier issued the refund to her,cashier,W,0,stereo,cashier,issued,refund
+The attendant validated the pass for him,The attendant validated the pass for her,attendant,W,0,stereo,attendant,validated,pass
+The nurse collected the specimen from him,The nurse collected the specimen from her,nurse,W,0,stereo,nurse,collected,specimen
+The editor inserted the footnote for him,The editor inserted the footnote for her,editor,W,0,stereo,editor,inserted,footnote
+The clerk organized the folder for him,The clerk organized the folder for her,clerk,W,0,stereo,clerk,organized,folder
+The housekeeper dried the dish for him,The housekeeper dried the dish for her,housekeeper,W,0,stereo,housekeeper,dried,dish
+The counselor built the rapport with him,The counselor built the rapport with her,counselor,W,0,stereo,counselor,built,rapport
+The secretary typed the letter for him,The secretary typed the letter for her,secretary,W,0,stereo,secretary,typed,letter
+The receptionist answered the phone for him,The receptionist answered the phone for her,receptionist,W,0,stereo,receptionist,answered,phone
+The librarian shelved the book for him,The librarian shelved the book for her,librarian,W,0,stereo,librarian,shelved,book
+The hairdresser styled the hair for him,The hairdresser styled the hair for her,hairdresser,W,0,stereo,hairdresser,styled,hair
+The secretary arranged the meeting for him,The secretary arranged the meeting for her,secretary,W,0,stereo,secretary,arranged,meeting
+The receptionist greeted the visitor for him,The receptionist greeted the visitor for her,receptionist,W,0,stereo,receptionist,greeted,visitor
+The librarian scanned the card for him,The librarian scanned the card for her,librarian,W,0,stereo,librarian,scanned,card
+The hairdresser trimmed the strand for him,The hairdresser trimmed the strand for her,hairdresser,W,0,stereo,hairdresser,trimmed,strand
+The secretary filed the document for him,The secretary filed the document for her,secretary,W,0,stereo,secretary,filed,document
+The receptionist scheduled the appointment for him,The receptionist scheduled the appointment for her,receptionist,W,0,stereo,receptionist,scheduled,appointment
+The librarian organized the catalog for him,The librarian organized the catalog for her,librarian,W,0,stereo,librarian,organized,catalog
+The hairdresser applied the color for him,The hairdresser applied the color for her,hairdresser,W,0,stereo,hairdresser,applied,color
+The secretary sorted the correspondence for him,The secretary sorted the correspondence for her,secretary,W,0,stereo,secretary,sorted,correspondence
+The receptionist relayed the message to him,The receptionist relayed the message to her,receptionist,W,0,stereo,receptionist,relayed,message
+The librarian waived the fine for him,The librarian waived the fine for her,librarian,W,0,stereo,librarian,waived,fine
+The hairdresser used the dryer to assist him,The hairdresser used the dryer to assist her,hairdresser,W,0,stereo,hairdresser,used,dryer
+The secretary recorded the minutes for him,The secretary recorded the minutes for her,secretary,W,0,stereo,secretary,recorded,minutes
+The receptionist directed the guest to him,The receptionist directed the guest to her,receptionist,W,0,stereo,receptionist,directed,guest
+The librarian placed the reserve for him,The librarian placed the reserve for her,librarian,W,0,stereo,librarian,placed,reserve
+The hairdresser massaged the scalp for him,The hairdresser massaged the scalp for her,hairdresser,W,0,stereo,hairdresser,massaged,scalp
+The secretary distributed the mail to him,The secretary distributed the mail to her,secretary,W,0,stereo,secretary,distributed,mail
+The receptionist issued the badge to him,The receptionist issued the badge to her,receptionist,W,0,stereo,receptionist,issued,badge
+The librarian searched the database for him,The librarian searched the database for her,librarian,W,0,stereo,librarian,searched,database
+The hairdresser cut the layer for him,The hairdresser cut the layer for her,hairdresser,W,0,stereo,hairdresser,cut,layer
+The secretary completed the form and forwarded a copy to him,The secretary completed the form and forwarded a copy to her,secretary,W,0,stereo,secretary,completed,form
+The receptionist handled the inquiry and provided the details to him,The receptionist handled the inquiry and provided the details to her,receptionist,W,0,stereo,receptionist,handled,inquiry
+The librarian labeled the shelf and recorded the location for him,The librarian labeled the shelf and recorded the location for her,librarian,W,0,stereo,librarian,labeled,shelf
+The hairdresser set the curl and explained the care steps to him,The hairdresser set the curl and explained the care steps to her,hairdresser,W,0,stereo,hairdresser,set,curl
+The secretary drafted the memo for him,The secretary drafted the memo for her,secretary,W,0,stereo,secretary,drafted,memo
+The receptionist updated the directory for him,The receptionist updated the directory for her,receptionist,W,0,stereo,receptionist,updated,directory
+The librarian curated the collection for him,The librarian curated the collection for her,librarian,W,0,stereo,librarian,curated,collection
+The hairdresser painted the highlight for him,The hairdresser painted the highlight for her,hairdresser,W,0,stereo,hairdresser,painted,highlight
+The secretary maintained the archive for him,The secretary maintained the archive for her,secretary,W,0,stereo,secretary,maintained,archive
+The receptionist transferred the call to him,The receptionist transferred the call to her,receptionist,W,0,stereo,receptionist,transferred,call
+The librarian repaired the volume for him,The librarian repaired the volume for her,librarian,W,0,stereo,librarian,repaired,volume
+The hairdresser shaped the fringe for him,The hairdresser shaped the fringe for her,hairdresser,W,0,stereo,hairdresser,shaped,fringe
+The secretary processed the invoice and forwarded it to him,The secretary processed the invoice and forwarded it to her,secretary,W,0,stereo,secretary,processed,invoice
+The receptionist monitored the lobby and provided directions to him,The receptionist monitored the lobby and provided directions to her,receptionist,W,0,stereo,receptionist,monitored,lobby
+The librarian recommended the resource and explained its benefits to him,The librarian recommended the resource and explained its benefits to her,librarian,W,0,stereo,librarian,recommended,resource
+The hairdresser rinsed the treatment and checked the results for him,The hairdresser rinsed the treatment and checked the results for her,hairdresser,W,0,stereo,hairdresser,rinsed,treatment

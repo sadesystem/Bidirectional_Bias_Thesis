@@ -1,0 +1,58 @@
+============================================================
+INTER-ANNOTATOR AGREEMENT ANALYSIS
+============================================================
+
+
+
+*** Annotator 1 vs Annotator 2 ***
+
+Observed agreement: 0.825
+Expected agreement: 0.5
+Pairwise kappa (Cohen's): 0.6499999999999999
+
+Confusion Matrix:
+  |  f  m |
+--+-------+
+f |<14> 6 |
+m |  1<19>|
+--+-------+
+(row = reference; col = test)
+
+
+============================================================
+Overall Inter-Annotator Agreement:
+============================================================
+k (k-bar / Average Pairwise Kappa): 0.6499999999999999
+
+Interpretation:
+  Substantial agreement
+
+------------------------------------------------------------
+Fleiss' Kappa (Multi-Annotator Metric):
+------------------------------------------------------------
+Fleiss' k (Standard Formula): 0.6444444444444444
+Fleiss' k (NLTK variant): 0.6499999999999999
+Difference: 0.005555555555555536
+
+Why the difference?
+  - Standard Fleiss' k: Calculates agreement across ALL annotators
+    simultaneously for each item, then averages across items.
+    This is the true multi-annotator metric.
+  - NLTK's multi_kappa: Averages pairwise observed agreements
+    and pairwise expected agreements separately, then applies
+    kappa formula. This is essentially averaging pairwise metrics.
+
+Interpretation:
+  Substantial agreement
+============================================================
+
+
+Disagreements:
+------------------------------------------------------------
+datapoint_1: {'Annotator 1': 'f', 'Annotator 2': 'm'}
+datapoint_2: {'Annotator 1': 'f', 'Annotator 2': 'm'}
+datapoint_14: {'Annotator 1': 'f', 'Annotator 2': 'm'}
+datapoint_19: {'Annotator 1': 'f', 'Annotator 2': 'm'}
+datapoint_24: {'Annotator 1': 'f', 'Annotator 2': 'm'}
+datapoint_32: {'Annotator 1': 'm', 'Annotator 2': 'f'}
+datapoint_40: {'Annotator 1': 'f', 'Annotator 2': 'm'}

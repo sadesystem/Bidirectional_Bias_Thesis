@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   bert-large-uncased
+Dataset: winobias_occ_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.690151   1.494657    75.41    +1.796776   2.784422    79.11
+within_word_l2r       +0.721267   1.518079    74.14    +1.796776   2.784422    79.11
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=8.45e-35 d=+0.4615
+                   contexts=40 fdr_sig=34
+within_word_l2r    p=1.47e-36 d=+0.4748
+                   contexts=40 fdr_sig=35

@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - within_word_l2r
+======================================================================
+Model:   distilbert/distilbert-base-uncased
+Dataset: winobias_occ_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               785
+Mean delta:      +0.169736
+Std:             0.754494
+Male pref %:     69.17
+Female pref %:   30.83
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               785
+Mean delta:      +1.744051
+Std:             1.331589
+Male pref %:     91.46
+Female pref %:   8.54
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +6.2991
+p-value:         4.99e-10
+Significant:     YES
+Cohen's d:       +0.2248
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      40
+Uncorrected sig.:     37
+FDR significant:      37
+Per-context details:  context_significance.csv

@@ -1,0 +1,20 @@
+======================================================================
+STATISTICAL SIGNIFICANCE - within_word_l2r
+======================================================================
+
+OVERALL BIAS ANALYSIS
+----------------------------------------
+  N samples        : 400
+  Mean Delta       : -0.536192
+  Std Delta        : 1.292483
+  t-statistic      : -8.2971
+  p-value          : 1.66e-15
+  Significant      : YES (α=0.05)
+  Cohen's d        : -0.4149
+  Interpretation   : small
+
+PER-CONTEXT MULTIPLE TESTING
+----------------------------------------
+  Contexts tested          : 3
+  Uncorrected significant  : 0
+  FDR significant          : 0

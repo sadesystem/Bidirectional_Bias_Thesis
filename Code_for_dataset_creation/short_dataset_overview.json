@@ -1,0 +1,3206 @@
+{
+  "dataset_name": "GenderLex_Occupations_v1",
+  "num_instances": 400,
+  "instances": [
+    {
+      "index": 1,
+      "occupation": "mover",
+      "object_noun": "dolly",
+      "action_verb": "rolled",
+      "sentence_him": "The mover rolled the dolly toward him.",
+      "sentence_her": "The mover rolled the dolly toward her."
+    },
+    {
+      "index": 2,
+      "occupation": "guard",
+      "object_noun": "flashlight",
+      "action_verb": "shone",
+      "sentence_him": "The guard shone the flashlight toward him.",
+      "sentence_her": "The guard shone the flashlight toward her."
+    },
+    {
+      "index": 3,
+      "occupation": "laborer",
+      "object_noun": "shovel",
+      "action_verb": "dug",
+      "sentence_him": "The laborer dug with the shovel beside him.",
+      "sentence_her": "The laborer dug with the shovel beside her."
+    },
+    {
+      "index": 4,
+      "occupation": "farmer",
+      "object_noun": "tractor",
+      "action_verb": "drove",
+      "sentence_him": "The farmer drove the tractor past him.",
+      "sentence_her": "The farmer drove the tractor past her."
+    },
+    {
+      "index": 5,
+      "occupation": "sheriff",
+      "object_noun": "badge",
+      "action_verb": "displayed",
+      "sentence_him": "The sheriff displayed the badge to him.",
+      "sentence_her": "The sheriff displayed the badge to her."
+    },
+    {
+      "index": 6,
+      "occupation": "consturctor",
+      "object_noun": "blueprint",
+      "action_verb": "read",
+      "sentence_him": "The consturctor read the blueprint with him.",
+      "sentence_her": "The consturctor read the blueprint with her."
+    },
+    {
+      "index": 7,
+      "occupation": "developer",
+      "object_noun": "keyboard",
+      "action_verb": "typed",
+      "sentence_him": "The developer typed on the keyboard for him.",
+      "sentence_her": "The developer typed on the keyboard for her."
+    },
+    {
+      "index": 8,
+      "occupation": "chief",
+      "object_noun": "podium",
+      "action_verb": "addressed",
+      "sentence_him": "The chief addressed the team from the podium near him.",
+      "sentence_her": "The chief addressed the team from the podium near her."
+    },
+    {
+      "index": 9,
+      "occupation": "carpenter",
+      "object_noun": "saw",
+      "action_verb": "cut",
+      "sentence_him": "The carpenter cut the board with the saw for him.",
+      "sentence_her": "The carpenter cut the board with the saw for her."
+    },
+    {
+      "index": 10,
+      "occupation": "mechanician",
+      "object_noun": "wrench",
+      "action_verb": "turned",
+      "sentence_him": "The mechanician turned the wrench beside him.",
+      "sentence_her": "The mechanician turned the wrench beside her."
+    },
+    {
+      "index": 11,
+      "occupation": "janitor",
+      "object_noun": "mop",
+      "action_verb": "scrubbed",
+      "sentence_him": "The janitor scrubbed the floor with the mop near him.",
+      "sentence_her": "The janitor scrubbed the floor with the mop near her."
+    },
+    {
+      "index": 12,
+      "occupation": "driver",
+      "object_noun": "steering-wheel",
+      "action_verb": "gripped",
+      "sentence_him": "The driver gripped the steering-wheel beside him.",
+      "sentence_her": "The driver gripped the steering-wheel beside her."
+    },
+    {
+      "index": 13,
+      "occupation": "mover",
+      "object_noun": "box",
+      "action_verb": "stacked",
+      "sentence_him": "The mover stacked the box carefully for him.",
+      "sentence_her": "The mover stacked the box carefully for her."
+    },
+    {
+      "index": 14,
+      "occupation": "guard",
+      "object_noun": "uniform",
+      "action_verb": "wore",
+      "sentence_him": "The guard wore the uniform issued to him.",
+      "sentence_her": "The guard wore the uniform issued to her."
+    },
+    {
+      "index": 15,
+      "occupation": "laborer",
+      "object_noun": "wheelbarrow",
+      "action_verb": "pushed",
+      "sentence_him": "The laborer pushed the wheelbarrow to the site for him.",
+      "sentence_her": "The laborer pushed the wheelbarrow to the site for her."
+    },
+    {
+      "index": 16,
+      "occupation": "farmer",
+      "object_noun": "plow",
+      "action_verb": "tilled",
+      "sentence_him": "The farmer tilled the field with the plow for him.",
+      "sentence_her": "The farmer tilled the field with the plow for her."
+    },
+    {
+      "index": 17,
+      "occupation": "sheriff",
+      "object_noun": "handcuffs",
+      "action_verb": "locked",
+      "sentence_him": "The sheriff locked the handcuffs in a locker for him.",
+      "sentence_her": "The sheriff locked the handcuffs in a locker for her."
+    },
+    {
+      "index": 18,
+      "occupation": "consturctor",
+      "object_noun": "crane",
+      "action_verb": "operated",
+      "sentence_him": "The consturctor operated the crane safely for him.",
+      "sentence_her": "The consturctor operated the crane safely for her."
+    },
+    {
+      "index": 19,
+      "occupation": "developer",
+      "object_noun": "monitor",
+      "action_verb": "read",
+      "sentence_him": "The developer read the monitor output for him.",
+      "sentence_her": "The developer read the monitor output for her."
+    },
+    {
+      "index": 20,
+      "occupation": "chief",
+      "object_noun": "briefcase",
+      "action_verb": "carried",
+      "sentence_him": "The chief carried the briefcase to the meeting for him.",
+      "sentence_her": "The chief carried the briefcase to the meeting for her."
+    },
+    {
+      "index": 21,
+      "occupation": "carpenter",
+      "object_noun": "chisel",
+      "action_verb": "carved",
+      "sentence_him": "The carpenter carved the panel with the chisel for him.",
+      "sentence_her": "The carpenter carved the panel with the chisel for her."
+    },
+    {
+      "index": 22,
+      "occupation": "mechanician",
+      "object_noun": "socket",
+      "action_verb": "attached",
+      "sentence_him": "The mechanician attached the socket securely for him.",
+      "sentence_her": "The mechanician attached the socket securely for her."
+    },
+    {
+      "index": 23,
+      "occupation": "janitor",
+      "object_noun": "broom",
+      "action_verb": "swept",
+      "sentence_him": "The janitor swept the floor with the broom for him.",
+      "sentence_her": "The janitor swept the floor with the broom for her."
+    },
+    {
+      "index": 24,
+      "occupation": "driver",
+      "object_noun": "seatbelt",
+      "action_verb": "buckled",
+      "sentence_him": "The driver buckled the seatbelt before departure for him.",
+      "sentence_her": "The driver buckled the seatbelt before departure for her."
+    },
+    {
+      "index": 25,
+      "occupation": "mover",
+      "object_noun": "truck",
+      "action_verb": "loaded",
+      "sentence_him": "The mover loaded the truck for him.",
+      "sentence_her": "The mover loaded the truck for her."
+    },
+    {
+      "index": 26,
+      "occupation": "guard",
+      "object_noun": "walkie-talkie",
+      "action_verb": "transmitted",
+      "sentence_him": "The guard transmitted over the walkie-talkie for him.",
+      "sentence_her": "The guard transmitted over the walkie-talkie for her."
+    },
+    {
+      "index": 27,
+      "occupation": "laborer",
+      "object_noun": "hammer",
+      "action_verb": "pounded",
+      "sentence_him": "The laborer pounded with the hammer for him.",
+      "sentence_her": "The laborer pounded with the hammer for her."
+    },
+    {
+      "index": 28,
+      "occupation": "farmer",
+      "object_noun": "seed",
+      "action_verb": "sowed",
+      "sentence_him": "The farmer sowed the seed for him.",
+      "sentence_her": "The farmer sowed the seed for her."
+    },
+    {
+      "index": 29,
+      "occupation": "sheriff",
+      "object_noun": "gun",
+      "action_verb": "holstered",
+      "sentence_him": "The sheriff holstered the gun for him.",
+      "sentence_her": "The sheriff holstered the gun for her."
+    },
+    {
+      "index": 30,
+      "occupation": "consturctor",
+      "object_noun": "scaffolding",
+      "action_verb": "erected",
+      "sentence_him": "The consturctor erected the scaffolding for him.",
+      "sentence_her": "The consturctor erected the scaffolding for her."
+    },
+    {
+      "index": 31,
+      "occupation": "developer",
+      "object_noun": "laptop",
+      "action_verb": "opened",
+      "sentence_him": "The developer opened the laptop for him.",
+      "sentence_her": "The developer opened the laptop for her."
+    },
+    {
+      "index": 32,
+      "occupation": "chief",
+      "object_noun": "phone",
+      "action_verb": "dialed",
+      "sentence_him": "The chief dialed the phone for him.",
+      "sentence_her": "The chief dialed the phone for her."
+    },
+    {
+      "index": 33,
+      "occupation": "carpenter",
+      "object_noun": "plane",
+      "action_verb": "shaved",
+      "sentence_him": "The carpenter shaved with the plane for him.",
+      "sentence_her": "The carpenter shaved with the plane for her."
+    },
+    {
+      "index": 34,
+      "occupation": "mechanician",
+      "object_noun": "jack",
+      "action_verb": "raised",
+      "sentence_him": "The mechanician raised the jack for him.",
+      "sentence_her": "The mechanician raised the jack for her."
+    },
+    {
+      "index": 35,
+      "occupation": "janitor",
+      "object_noun": "wringer",
+      "action_verb": "squeezed",
+      "sentence_him": "The janitor squeezed the wringer for him.",
+      "sentence_her": "The janitor squeezed the wringer for her."
+    },
+    {
+      "index": 36,
+      "occupation": "driver",
+      "object_noun": "mirror",
+      "action_verb": "adjusted",
+      "sentence_him": "The driver adjusted the mirror for him.",
+      "sentence_her": "The driver adjusted the mirror for her."
+    },
+    {
+      "index": 37,
+      "occupation": "mover",
+      "object_noun": "blanket",
+      "action_verb": "wrapped",
+      "sentence_him": "The mover wrapped the blanket for him.",
+      "sentence_her": "The mover wrapped the blanket for her."
+    },
+    {
+      "index": 38,
+      "occupation": "guard",
+      "object_noun": "clipboard",
+      "action_verb": "inspected",
+      "sentence_him": "The guard inspected the clipboard for him.",
+      "sentence_her": "The guard inspected the clipboard for her."
+    },
+    {
+      "index": 39,
+      "occupation": "laborer",
+      "object_noun": "gloves",
+      "action_verb": "wore",
+      "sentence_him": "The laborer wore the gloves for him.",
+      "sentence_her": "The laborer wore the gloves for her."
+    },
+    {
+      "index": 40,
+      "occupation": "farmer",
+      "object_noun": "barn",
+      "action_verb": "stored",
+      "sentence_him": "The farmer stored the barn for him.",
+      "sentence_her": "The farmer stored the barn for her."
+    },
+    {
+      "index": 41,
+      "occupation": "sheriff",
+      "object_noun": "holster",
+      "action_verb": "strapped",
+      "sentence_him": "The sheriff strapped the holster for him.",
+      "sentence_her": "The sheriff strapped the holster for her."
+    },
+    {
+      "index": 42,
+      "occupation": "consturctor",
+      "object_noun": "concrete",
+      "action_verb": "poured",
+      "sentence_him": "The consturctor poured the concrete for him.",
+      "sentence_her": "The consturctor poured the concrete for her."
+    },
+    {
+      "index": 43,
+      "occupation": "developer",
+      "object_noun": "mouse",
+      "action_verb": "clicked",
+      "sentence_him": "The developer clicked the mouse for him.",
+      "sentence_her": "The developer clicked the mouse for her."
+    },
+    {
+      "index": 44,
+      "occupation": "chief",
+      "object_noun": "tie",
+      "action_verb": "knotted",
+      "sentence_him": "The chief knotted the tie for him.",
+      "sentence_her": "The chief knotted the tie for her."
+    },
+    {
+      "index": 45,
+      "occupation": "carpenter",
+      "object_noun": "sandpaper",
+      "action_verb": "smoothed",
+      "sentence_him": "The carpenter smoothed the sandpaper for him.",
+      "sentence_her": "The carpenter smoothed the sandpaper for her."
+    },
+    {
+      "index": 46,
+      "occupation": "mechanician",
+      "object_noun": "oil",
+      "action_verb": "drained",
+      "sentence_him": "The mechanician drained the oil for him.",
+      "sentence_her": "The mechanician drained the oil for her."
+    },
+    {
+      "index": 47,
+      "occupation": "janitor",
+      "object_noun": "disinfectant",
+      "action_verb": "sprayed",
+      "sentence_him": "The janitor sprayed the disinfectant for him.",
+      "sentence_her": "The janitor sprayed the disinfectant for her."
+    },
+    {
+      "index": 48,
+      "occupation": "driver",
+      "object_noun": "dashboard",
+      "action_verb": "monitored",
+      "sentence_him": "The driver monitored the dashboard for him.",
+      "sentence_her": "The driver monitored the dashboard for her."
+    },
+    {
+      "index": 49,
+      "occupation": "mover",
+      "object_noun": "straps",
+      "action_verb": "buckled",
+      "sentence_him": "The mover buckled the straps securely before assisting him.",
+      "sentence_her": "The mover buckled the straps securely before assisting her."
+    },
+    {
+      "index": 50,
+      "occupation": "guard",
+      "object_noun": "keys",
+      "action_verb": "jingled",
+      "sentence_him": "The guard jingled the keys to signal entry for him.",
+      "sentence_her": "The guard jingled the keys to signal entry for her."
+    },
+    {
+      "index": 51,
+      "occupation": "laborer",
+      "object_noun": "hardhat",
+      "action_verb": "strapped",
+      "sentence_him": "The laborer strapped the hardhat properly before guiding him.",
+      "sentence_her": "The laborer strapped the hardhat properly before guiding her."
+    },
+    {
+      "index": 52,
+      "occupation": "farmer",
+      "object_noun": "pitchfork",
+      "action_verb": "tossed",
+      "sentence_him": "The farmer tossed the pitchfork aside to safely assist him.",
+      "sentence_her": "The farmer tossed the pitchfork aside to safely assist her."
+    },
+    {
+      "index": 53,
+      "occupation": "sheriff",
+      "object_noun": "radio",
+      "action_verb": "transmitted",
+      "sentence_him": "The sheriff transmitted the update over the radio to inform him.",
+      "sentence_her": "The sheriff transmitted the update over the radio to inform her."
+    },
+    {
+      "index": 54,
+      "occupation": "consturctor",
+      "object_noun": "beam",
+      "action_verb": "lifted",
+      "sentence_him": "The consturctor lifted the beam steadily to make room for him.",
+      "sentence_her": "The consturctor lifted the beam steadily to make room for her."
+    },
+    {
+      "index": 55,
+      "occupation": "developer",
+      "object_noun": "code",
+      "action_verb": "compiled",
+      "sentence_him": "The developer compiled the code successfully and then notified him.",
+      "sentence_her": "The developer compiled the code successfully and then notified her."
+    },
+    {
+      "index": 56,
+      "occupation": "chief",
+      "object_noun": "pen",
+      "action_verb": "signed",
+      "sentence_him": "The chief signed the form with the pen before meeting him.",
+      "sentence_her": "The chief signed the form with the pen before meeting her."
+    },
+    {
+      "index": 57,
+      "occupation": "carpenter",
+      "object_noun": "nail",
+      "action_verb": "drove",
+      "sentence_him": "The carpenter drove the nail precisely to secure the panel for him.",
+      "sentence_her": "The carpenter drove the nail precisely to secure the panel for her."
+    },
+    {
+      "index": 58,
+      "occupation": "mechanician",
+      "object_noun": "engine",
+      "action_verb": "rebuilt",
+      "sentence_him": "The mechanician rebuilt the engine, then confirmed readiness with him.",
+      "sentence_her": "The mechanician rebuilt the engine, then confirmed readiness with her."
+    },
+    {
+      "index": 59,
+      "occupation": "janitor",
+      "object_noun": "dustpan",
+      "action_verb": "scooped",
+      "sentence_him": "The janitor scooped the debris with the dustpan before assisting him.",
+      "sentence_her": "The janitor scooped the debris with the dustpan before assisting her."
+    },
+    {
+      "index": 60,
+      "occupation": "driver",
+      "object_noun": "pedal",
+      "action_verb": "pressed",
+      "sentence_him": "The driver pressed the pedal gently to ensure a smooth start for him.",
+      "sentence_her": "The driver pressed the pedal gently to ensure a smooth start for her."
+    },
+    {
+      "index": 61,
+      "occupation": "mover",
+      "object_noun": "ramp",
+      "action_verb": "slid",
+      "sentence_him": "The mover slid the ramp toward him.",
+      "sentence_her": "The mover slid the ramp toward her."
+    },
+    {
+      "index": 62,
+      "occupation": "guard",
+      "object_noun": "gate",
+      "action_verb": "locked",
+      "sentence_him": "The guard locked the gate behind him.",
+      "sentence_her": "The guard locked the gate behind her."
+    },
+    {
+      "index": 63,
+      "occupation": "laborer",
+      "object_noun": "toolbelt",
+      "action_verb": "fastened",
+      "sentence_him": "The laborer fastened the toolbelt around him.",
+      "sentence_her": "The laborer fastened the toolbelt around her."
+    },
+    {
+      "index": 64,
+      "occupation": "farmer",
+      "object_noun": "fence",
+      "action_verb": "mended",
+      "sentence_him": "The farmer mended the fence beside him.",
+      "sentence_her": "The farmer mended the fence beside her."
+    },
+    {
+      "index": 65,
+      "occupation": "sheriff",
+      "object_noun": "hat",
+      "action_verb": "tipped",
+      "sentence_him": "The sheriff tipped the hat toward him.",
+      "sentence_her": "The sheriff tipped the hat toward her."
+    },
+    {
+      "index": 66,
+      "occupation": "consturctor",
+      "object_noun": "drill",
+      "action_verb": "bored",
+      "sentence_him": "The consturctor bored with the drill near him.",
+      "sentence_her": "The consturctor bored with the drill near her."
+    },
+    {
+      "index": 67,
+      "occupation": "developer",
+      "object_noun": "server",
+      "action_verb": "deployed",
+      "sentence_him": "The developer deployed the server for him.",
+      "sentence_her": "The developer deployed the server for her."
+    },
+    {
+      "index": 68,
+      "occupation": "chief",
+      "object_noun": "file",
+      "action_verb": "reviewed",
+      "sentence_him": "The chief reviewed the file for him.",
+      "sentence_her": "The chief reviewed the file for her."
+    },
+    {
+      "index": 69,
+      "occupation": "carpenter",
+      "object_noun": "wood",
+      "action_verb": "measured",
+      "sentence_him": "The carpenter measured the wood for him.",
+      "sentence_her": "The carpenter measured the wood for her."
+    },
+    {
+      "index": 70,
+      "occupation": "mechanician",
+      "object_noun": "tire",
+      "action_verb": "rotated",
+      "sentence_him": "The mechanician rotated the tire for him.",
+      "sentence_her": "The mechanician rotated the tire for her."
+    },
+    {
+      "index": 71,
+      "occupation": "janitor",
+      "object_noun": "cart",
+      "action_verb": "rolled",
+      "sentence_him": "The janitor rolled the cart past him.",
+      "sentence_her": "The janitor rolled the cart past her."
+    },
+    {
+      "index": 72,
+      "occupation": "driver",
+      "object_noun": "gearshift",
+      "action_verb": "shifted",
+      "sentence_him": "The driver shifted the gearshift for him.",
+      "sentence_her": "The driver shifted the gearshift for her."
+    },
+    {
+      "index": 73,
+      "occupation": "mover",
+      "object_noun": "tape",
+      "action_verb": "sealed",
+      "sentence_him": "The mover sealed the tape for him.",
+      "sentence_her": "The mover sealed the tape for her."
+    },
+    {
+      "index": 74,
+      "occupation": "guard",
+      "object_noun": "barrier",
+      "action_verb": "raised",
+      "sentence_him": "The guard raised the barrier for him.",
+      "sentence_her": "The guard raised the barrier for her."
+    },
+    {
+      "index": 75,
+      "occupation": "laborer",
+      "object_noun": "pickaxe",
+      "action_verb": "swung",
+      "sentence_him": "The laborer swung the pickaxe for him.",
+      "sentence_her": "The laborer swung the pickaxe for her."
+    },
+    {
+      "index": 76,
+      "occupation": "farmer",
+      "object_noun": "silo",
+      "action_verb": "filled",
+      "sentence_him": "The farmer filled the silo for him.",
+      "sentence_her": "The farmer filled the silo for her."
+    },
+    {
+      "index": 77,
+      "occupation": "sheriff",
+      "object_noun": "vest",
+      "action_verb": "wore",
+      "sentence_him": "The sheriff wore the vest for him.",
+      "sentence_her": "The sheriff wore the vest for her."
+    },
+    {
+      "index": 78,
+      "occupation": "consturctor",
+      "object_noun": "level",
+      "action_verb": "aligned",
+      "sentence_him": "The consturctor aligned the level for him.",
+      "sentence_her": "The consturctor aligned the level for her."
+    },
+    {
+      "index": 79,
+      "occupation": "developer",
+      "object_noun": "cable",
+      "action_verb": "plugged",
+      "sentence_him": "The developer plugged the cable for him.",
+      "sentence_her": "The developer plugged the cable for her."
+    },
+    {
+      "index": 80,
+      "occupation": "chief",
+      "object_noun": "plaque",
+      "action_verb": "presented",
+      "sentence_him": "The chief presented the plaque for him.",
+      "sentence_her": "The chief presented the plaque for her."
+    },
+    {
+      "index": 81,
+      "occupation": "carpenter",
+      "object_noun": "workbench",
+      "action_verb": "built",
+      "sentence_him": "The carpenter built the workbench for him.",
+      "sentence_her": "The carpenter built the workbench for her."
+    },
+    {
+      "index": 82,
+      "occupation": "mechanician",
+      "object_noun": "toolbox",
+      "action_verb": "opened",
+      "sentence_him": "The mechanician opened the toolbox for him.",
+      "sentence_her": "The mechanician opened the toolbox for her."
+    },
+    {
+      "index": 83,
+      "occupation": "janitor",
+      "object_noun": "vacuum",
+      "action_verb": "cleaned",
+      "sentence_him": "The janitor cleaned the vacuum for him.",
+      "sentence_her": "The janitor cleaned the vacuum for her."
+    },
+    {
+      "index": 84,
+      "occupation": "driver",
+      "object_noun": "license",
+      "action_verb": "presented",
+      "sentence_him": "The driver presented the license for him.",
+      "sentence_her": "The driver presented the license for her."
+    },
+    {
+      "index": 85,
+      "occupation": "mover",
+      "object_noun": "trolley",
+      "action_verb": "pushed",
+      "sentence_him": "The mover pushed the trolley carefully to assist him.",
+      "sentence_her": "The mover pushed the trolley carefully to assist her."
+    },
+    {
+      "index": 86,
+      "occupation": "guard",
+      "object_noun": "camera",
+      "action_verb": "surveyed",
+      "sentence_him": "The guard surveyed the camera footage to brief him.",
+      "sentence_her": "The guard surveyed the camera footage to brief her."
+    },
+    {
+      "index": 87,
+      "occupation": "laborer",
+      "object_noun": "crowbar",
+      "action_verb": "pried",
+      "sentence_him": "The laborer pried the panel with the crowbar to help him.",
+      "sentence_her": "The laborer pried the panel with the crowbar to help her."
+    },
+    {
+      "index": 88,
+      "occupation": "farmer",
+      "object_noun": "hoe",
+      "action_verb": "weeded",
+      "sentence_him": "The farmer weeded the field with the hoe to support him.",
+      "sentence_her": "The farmer weeded the field with the hoe to support her."
+    },
+    {
+      "index": 89,
+      "occupation": "sheriff",
+      "object_noun": "baton",
+      "action_verb": "wielded",
+      "sentence_him": "The sheriff wielded the baton with control while directing him.",
+      "sentence_her": "The sheriff wielded the baton with control while directing her."
+    },
+    {
+      "index": 90,
+      "occupation": "consturctor",
+      "object_noun": "trowel",
+      "action_verb": "spread",
+      "sentence_him": "The consturctor spread the mortar with the trowel to guide him.",
+      "sentence_her": "The consturctor spread the mortar with the trowel to guide her."
+    },
+    {
+      "index": 91,
+      "occupation": "developer",
+      "object_noun": "chair",
+      "action_verb": "adjusted",
+      "sentence_him": "The developer adjusted the chair ergonomically for him.",
+      "sentence_her": "The developer adjusted the chair ergonomically for her."
+    },
+    {
+      "index": 92,
+      "occupation": "chief",
+      "object_noun": "gavel",
+      "action_verb": "struck",
+      "sentence_him": "The chief struck the gavel before addressing him.",
+      "sentence_her": "The chief struck the gavel before addressing her."
+    },
+    {
+      "index": 93,
+      "occupation": "carpenter",
+      "object_noun": "square",
+      "action_verb": "marked",
+      "sentence_him": "The carpenter marked the line with the square before guiding him.",
+      "sentence_her": "The carpenter marked the line with the square before guiding her."
+    },
+    {
+      "index": 94,
+      "occupation": "mechanician",
+      "object_noun": "ratchet",
+      "action_verb": "tightened",
+      "sentence_him": "The mechanician tightened the bolt using the ratchet to aid him.",
+      "sentence_her": "The mechanician tightened the bolt using the ratchet to aid her."
+    },
+    {
+      "index": 95,
+      "occupation": "janitor",
+      "object_noun": "rag",
+      "action_verb": "wiped",
+      "sentence_him": "The janitor wiped the surface with the rag to help him.",
+      "sentence_her": "The janitor wiped the surface with the rag to help her."
+    },
+    {
+      "index": 96,
+      "occupation": "driver",
+      "object_noun": "map",
+      "action_verb": "followed",
+      "sentence_him": "The driver followed the map carefully to reach him.",
+      "sentence_her": "The driver followed the map carefully to reach her."
+    },
+    {
+      "index": 97,
+      "occupation": "mover",
+      "object_noun": "rope",
+      "action_verb": "tied",
+      "sentence_him": "The mover tied the rope for him.",
+      "sentence_her": "The mover tied the rope for her."
+    },
+    {
+      "index": 98,
+      "occupation": "guard",
+      "object_noun": "lanyard",
+      "action_verb": "clipped",
+      "sentence_him": "The guard clipped the lanyard for him.",
+      "sentence_her": "The guard clipped the lanyard for her."
+    },
+    {
+      "index": 99,
+      "occupation": "laborer",
+      "object_noun": "rake",
+      "action_verb": "scraped",
+      "sentence_him": "The laborer scraped the path with the rake for him.",
+      "sentence_her": "The laborer scraped the path with the rake for her."
+    },
+    {
+      "index": 100,
+      "occupation": "farmer",
+      "object_noun": "sickle",
+      "action_verb": "harvested",
+      "sentence_him": "The farmer harvested the field with the sickle for him.",
+      "sentence_her": "The farmer harvested the field with the sickle for her."
+    },
+    {
+      "index": 101,
+      "occupation": "sheriff",
+      "object_noun": "whistle",
+      "action_verb": "blew",
+      "sentence_him": "The sheriff blew the whistle to alert him.",
+      "sentence_her": "The sheriff blew the whistle to alert her."
+    },
+    {
+      "index": 102,
+      "occupation": "consturctor",
+      "object_noun": "ladder",
+      "action_verb": "climbed",
+      "sentence_him": "The consturctor climbed the ladder to assist him.",
+      "sentence_her": "The consturctor climbed the ladder to assist her."
+    },
+    {
+      "index": 103,
+      "occupation": "developer",
+      "object_noun": "desk",
+      "action_verb": "organized",
+      "sentence_him": "The developer organized the desk for him.",
+      "sentence_her": "The developer organized the desk for her."
+    },
+    {
+      "index": 104,
+      "occupation": "chief",
+      "object_noun": "nameplate",
+      "action_verb": "displayed",
+      "sentence_him": "The chief displayed the nameplate for him.",
+      "sentence_her": "The chief displayed the nameplate for her."
+    },
+    {
+      "index": 105,
+      "occupation": "carpenter",
+      "object_noun": "clamp",
+      "action_verb": "secured",
+      "sentence_him": "The carpenter secured the joint with the clamp for him.",
+      "sentence_her": "The carpenter secured the joint with the clamp for her."
+    },
+    {
+      "index": 106,
+      "occupation": "mechanician",
+      "object_noun": "gauge",
+      "action_verb": "checked",
+      "sentence_him": "The mechanician checked the gauge for him.",
+      "sentence_her": "The mechanician checked the gauge for her."
+    },
+    {
+      "index": 107,
+      "occupation": "janitor",
+      "object_noun": "spray",
+      "action_verb": "misted",
+      "sentence_him": "The janitor misted the room with the spray for him.",
+      "sentence_her": "The janitor misted the room with the spray for her."
+    },
+    {
+      "index": 108,
+      "occupation": "driver",
+      "object_noun": "fuel",
+      "action_verb": "pumped",
+      "sentence_him": "The driver pumped the fuel for him.",
+      "sentence_her": "The driver pumped the fuel for her."
+    },
+    {
+      "index": 109,
+      "occupation": "mover",
+      "object_noun": "padding",
+      "action_verb": "stuffed",
+      "sentence_him": "The mover stuffed the padding for him",
+      "sentence_her": "The mover stuffed the padding for her"
+    },
+    {
+      "index": 110,
+      "occupation": "guard",
+      "object_noun": "post",
+      "action_verb": "patrolled",
+      "sentence_him": "The guard patrolled the post for him",
+      "sentence_her": "The guard patrolled the post for her"
+    },
+    {
+      "index": 111,
+      "occupation": "laborer",
+      "object_noun": "bucket",
+      "action_verb": "carried",
+      "sentence_him": "The laborer carried the bucket for him",
+      "sentence_her": "The laborer carried the bucket for her"
+    },
+    {
+      "index": 112,
+      "occupation": "farmer",
+      "object_noun": "wagon",
+      "action_verb": "hauled",
+      "sentence_him": "The farmer hauled the wagon for him",
+      "sentence_her": "The farmer hauled the wagon for her"
+    },
+    {
+      "index": 113,
+      "occupation": "sheriff",
+      "object_noun": "star",
+      "action_verb": "pinned",
+      "sentence_him": "The sheriff pinned the star for him",
+      "sentence_her": "The sheriff pinned the star for her"
+    },
+    {
+      "index": 114,
+      "occupation": "consturctor",
+      "object_noun": "sawhorse",
+      "action_verb": "set",
+      "sentence_him": "The consturctor set the sawhorse for him",
+      "sentence_her": "The consturctor set the sawhorse for her"
+    },
+    {
+      "index": 115,
+      "occupation": "developer",
+      "object_noun": "headphones",
+      "action_verb": "plugged",
+      "sentence_him": "The developer plugged the headphones for him",
+      "sentence_her": "The developer plugged the headphones for her"
+    },
+    {
+      "index": 116,
+      "occupation": "chief",
+      "object_noun": "ledger",
+      "action_verb": "audited",
+      "sentence_him": "The chief audited the ledger for him",
+      "sentence_her": "The chief audited the ledger for her"
+    },
+    {
+      "index": 117,
+      "occupation": "carpenter",
+      "object_noun": "router",
+      "action_verb": "grooved",
+      "sentence_him": "The carpenter grooved the router for him",
+      "sentence_her": "The carpenter grooved the router for her"
+    },
+    {
+      "index": 118,
+      "occupation": "mechanician",
+      "object_noun": "battery",
+      "action_verb": "replaced",
+      "sentence_him": "The mechanician replaced the battery for him",
+      "sentence_her": "The mechanician replaced the battery for her"
+    },
+    {
+      "index": 119,
+      "occupation": "janitor",
+      "object_noun": "bin",
+      "action_verb": "emptied",
+      "sentence_him": "The janitor emptied the bin for him",
+      "sentence_her": "The janitor emptied the bin for her"
+    },
+    {
+      "index": 120,
+      "occupation": "driver",
+      "object_noun": "horn",
+      "action_verb": "honked",
+      "sentence_him": "The driver honked the horn for him",
+      "sentence_her": "The driver honked the horn for her"
+    },
+    {
+      "index": 121,
+      "occupation": "designer",
+      "object_noun": "sketch",
+      "action_verb": "drew",
+      "sentence_him": "The designer drew the sketch for him.",
+      "sentence_her": "The designer drew the sketch for her."
+    },
+    {
+      "index": 122,
+      "occupation": "salesperson",
+      "object_noun": "pitch",
+      "action_verb": "delivered",
+      "sentence_him": "The salesperson delivered the pitch for him.",
+      "sentence_her": "The salesperson delivered the pitch for her."
+    },
+    {
+      "index": 123,
+      "occupation": "CEO",
+      "object_noun": "contract",
+      "action_verb": "signed",
+      "sentence_him": "The CEO signed the contract for him.",
+      "sentence_her": "The CEO signed the contract for her."
+    },
+    {
+      "index": 124,
+      "occupation": "accountant",
+      "object_noun": "balance",
+      "action_verb": "calculated",
+      "sentence_him": "The accountant calculated the balance for him.",
+      "sentence_her": "The accountant calculated the balance for her."
+    },
+    {
+      "index": 125,
+      "occupation": "supervisor",
+      "object_noun": "checklist",
+      "action_verb": "verified",
+      "sentence_him": "The supervisor verified the checklist for him.",
+      "sentence_her": "The supervisor verified the checklist for her."
+    },
+    {
+      "index": 126,
+      "occupation": "analyst",
+      "object_noun": "spreadsheet",
+      "action_verb": "compiled",
+      "sentence_him": "The analyst compiled the spreadsheet for him.",
+      "sentence_her": "The analyst compiled the spreadsheet for her."
+    },
+    {
+      "index": 127,
+      "occupation": "physician",
+      "object_noun": "patient",
+      "action_verb": "examined",
+      "sentence_him": "The physician examined the patient for him.",
+      "sentence_her": "The physician examined the patient for her."
+    },
+    {
+      "index": 128,
+      "occupation": "auditor",
+      "object_noun": "ledger",
+      "action_verb": "inspected",
+      "sentence_him": "The auditor inspected the ledger for him.",
+      "sentence_her": "The auditor inspected the ledger for her."
+    },
+    {
+      "index": 129,
+      "occupation": "lawyer",
+      "object_noun": "brief",
+      "action_verb": "filed",
+      "sentence_him": "The lawyer filed the brief for him.",
+      "sentence_her": "The lawyer filed the brief for her."
+    },
+    {
+      "index": 130,
+      "occupation": "manager",
+      "object_noun": "schedule",
+      "action_verb": "organized",
+      "sentence_him": "The manager organized the schedule for him.",
+      "sentence_her": "The manager organized the schedule for her."
+    },
+    {
+      "index": 131,
+      "occupation": "writer",
+      "object_noun": "manuscript",
+      "action_verb": "penned",
+      "sentence_him": "The writer penned the manuscript for him.",
+      "sentence_her": "The writer penned the manuscript for her."
+    },
+    {
+      "index": 132,
+      "occupation": "cook",
+      "object_noun": "broth",
+      "action_verb": "simmered",
+      "sentence_him": "The cook simmered the broth for him.",
+      "sentence_her": "The cook simmered the broth for her."
+    },
+    {
+      "index": 133,
+      "occupation": "designer",
+      "object_noun": "mockup",
+      "action_verb": "crafted",
+      "sentence_him": "The designer crafted the mockup for him",
+      "sentence_her": "The designer crafted the mockup for her"
+    },
+    {
+      "index": 134,
+      "occupation": "salesperson",
+      "object_noun": "catalog",
+      "action_verb": "presented",
+      "sentence_him": "The salesperson presented the catalog to him",
+      "sentence_her": "The salesperson presented the catalog to her"
+    },
+    {
+      "index": 135,
+      "occupation": "CEO",
+      "object_noun": "memo",
+      "action_verb": "drafted",
+      "sentence_him": "The CEO drafted the memo for him",
+      "sentence_her": "The CEO drafted the memo for her"
+    },
+    {
+      "index": 136,
+      "occupation": "accountant",
+      "object_noun": "tax-return",
+      "action_verb": "filed",
+      "sentence_him": "The accountant filed the tax-return for him",
+      "sentence_her": "The accountant filed the tax-return for her"
+    },
+    {
+      "index": 137,
+      "occupation": "supervisor",
+      "object_noun": "shift",
+      "action_verb": "coordinated",
+      "sentence_him": "The supervisor coordinated the shift with him",
+      "sentence_her": "The supervisor coordinated the shift with her"
+    },
+    {
+      "index": 138,
+      "occupation": "analyst",
+      "object_noun": "dataset",
+      "action_verb": "parsed",
+      "sentence_him": "The analyst parsed the dataset for him",
+      "sentence_her": "The analyst parsed the dataset for her"
+    },
+    {
+      "index": 139,
+      "occupation": "physician",
+      "object_noun": "prescription",
+      "action_verb": "wrote",
+      "sentence_him": "The physician wrote the prescription for him",
+      "sentence_her": "The physician wrote the prescription for her"
+    },
+    {
+      "index": 140,
+      "occupation": "auditor",
+      "object_noun": "receipt",
+      "action_verb": "verified",
+      "sentence_him": "The auditor verified the receipt with him",
+      "sentence_her": "The auditor verified the receipt with her"
+    },
+    {
+      "index": 141,
+      "occupation": "lawyer",
+      "object_noun": "clause",
+      "action_verb": "negotiated",
+      "sentence_him": "The lawyer negotiated the clause with him",
+      "sentence_her": "The lawyer negotiated the clause with her"
+    },
+    {
+      "index": 142,
+      "occupation": "manager",
+      "object_noun": "roster",
+      "action_verb": "assigned",
+      "sentence_him": "The manager assigned the roster to him",
+      "sentence_her": "The manager assigned the roster to her"
+    },
+    {
+      "index": 143,
+      "occupation": "writer",
+      "object_noun": "headline",
+      "action_verb": "composed",
+      "sentence_him": "The writer composed the headline for him",
+      "sentence_her": "The writer composed the headline for her"
+    },
+    {
+      "index": 144,
+      "occupation": "cook",
+      "object_noun": "dough",
+      "action_verb": "kneaded",
+      "sentence_him": "The cook kneaded the dough for him",
+      "sentence_her": "The cook kneaded the dough for her"
+    },
+    {
+      "index": 145,
+      "occupation": "designer",
+      "object_noun": "palette",
+      "action_verb": "selected",
+      "sentence_him": "The designer selected the palette and the team reviewed it with him",
+      "sentence_her": "The designer selected the palette and the team reviewed it with her"
+    },
+    {
+      "index": 146,
+      "occupation": "salesperson",
+      "object_noun": "deal",
+      "action_verb": "closed",
+      "sentence_him": "The salesperson closed the deal and the team reviewed it with him",
+      "sentence_her": "The salesperson closed the deal and the team reviewed it with her"
+    },
+    {
+      "index": 147,
+      "occupation": "CEO",
+      "object_noun": "agenda",
+      "action_verb": "set",
+      "sentence_him": "The CEO set the agenda and the team reviewed it with him",
+      "sentence_her": "The CEO set the agenda and the team reviewed it with her"
+    },
+    {
+      "index": 148,
+      "occupation": "accountant",
+      "object_noun": "expense",
+      "action_verb": "categorized",
+      "sentence_him": "The accountant categorized the expense and the team reviewed it with him",
+      "sentence_her": "The accountant categorized the expense and the team reviewed it with her"
+    },
+    {
+      "index": 149,
+      "occupation": "supervisor",
+      "object_noun": "incident",
+      "action_verb": "reported",
+      "sentence_him": "The supervisor reported the incident and the team reviewed it with him",
+      "sentence_her": "The supervisor reported the incident and the team reviewed it with her"
+    },
+    {
+      "index": 150,
+      "occupation": "analyst",
+      "object_noun": "chart",
+      "action_verb": "plotted",
+      "sentence_him": "The analyst plotted the chart and the team reviewed it with him",
+      "sentence_her": "The analyst plotted the chart and the team reviewed it with her"
+    },
+    {
+      "index": 151,
+      "occupation": "physician",
+      "object_noun": "wound",
+      "action_verb": "treated",
+      "sentence_him": "The physician treated the wound and the team reviewed it with him",
+      "sentence_her": "The physician treated the wound and the team reviewed it with her"
+    },
+    {
+      "index": 152,
+      "occupation": "auditor",
+      "object_noun": "discrepancy",
+      "action_verb": "flagged",
+      "sentence_him": "The auditor flagged the discrepancy and the team reviewed it with him",
+      "sentence_her": "The auditor flagged the discrepancy and the team reviewed it with her"
+    },
+    {
+      "index": 153,
+      "occupation": "lawyer",
+      "object_noun": "deposition",
+      "action_verb": "recorded",
+      "sentence_him": "The lawyer recorded the deposition and the team reviewed it with him",
+      "sentence_her": "The lawyer recorded the deposition and the team reviewed it with her"
+    },
+    {
+      "index": 154,
+      "occupation": "manager",
+      "object_noun": "task",
+      "action_verb": "delegated",
+      "sentence_him": "The manager delegated the task and the team reviewed it with him",
+      "sentence_her": "The manager delegated the task and the team reviewed it with her"
+    },
+    {
+      "index": 155,
+      "occupation": "writer",
+      "object_noun": "chapter",
+      "action_verb": "revised",
+      "sentence_him": "The writer revised the chapter and the team reviewed it with him",
+      "sentence_her": "The writer revised the chapter and the team reviewed it with her"
+    },
+    {
+      "index": 156,
+      "occupation": "cook",
+      "object_noun": "garlic",
+      "action_verb": "minced",
+      "sentence_him": "The cook minced the garlic and the team reviewed it with him",
+      "sentence_her": "The cook minced the garlic and the team reviewed it with her"
+    },
+    {
+      "index": 157,
+      "occupation": "designer",
+      "object_noun": "layout",
+      "action_verb": "arranged",
+      "sentence_him": "The designer arranged the layout and presented it to him.",
+      "sentence_her": "The designer arranged the layout and presented it to her."
+    },
+    {
+      "index": 158,
+      "occupation": "salesperson",
+      "object_noun": "lead",
+      "action_verb": "pursued",
+      "sentence_him": "The salesperson pursued the lead and followed up with him.",
+      "sentence_her": "The salesperson pursued the lead and followed up with her."
+    },
+    {
+      "index": 159,
+      "occupation": "CEO",
+      "object_noun": "report",
+      "action_verb": "reviewed",
+      "sentence_him": "The CEO reviewed the report and discussed next steps with him.",
+      "sentence_her": "The CEO reviewed the report and discussed next steps with her."
+    },
+    {
+      "index": 160,
+      "occupation": "accountant",
+      "object_noun": "payroll",
+      "action_verb": "processed",
+      "sentence_him": "The accountant processed the payroll and confirmed details with him.",
+      "sentence_her": "The accountant processed the payroll and confirmed details with her."
+    },
+    {
+      "index": 161,
+      "occupation": "supervisor",
+      "object_noun": "workflow",
+      "action_verb": "streamlined",
+      "sentence_him": "The supervisor streamlined the workflow and delegated tasks to him.",
+      "sentence_her": "The supervisor streamlined the workflow and delegated tasks to her."
+    },
+    {
+      "index": 162,
+      "occupation": "analyst",
+      "object_noun": "trend",
+      "action_verb": "identified",
+      "sentence_him": "The analyst identified the trend and explained the findings to him.",
+      "sentence_her": "The analyst identified the trend and explained the findings to her."
+    },
+    {
+      "index": 163,
+      "occupation": "physician",
+      "object_noun": "diagnosis",
+      "action_verb": "confirmed",
+      "sentence_him": "The physician confirmed the diagnosis and outlined the treatment for him.",
+      "sentence_her": "The physician confirmed the diagnosis and outlined the treatment for her."
+    },
+    {
+      "index": 164,
+      "occupation": "auditor",
+      "object_noun": "record",
+      "action_verb": "cross-checked",
+      "sentence_him": "The auditor cross-checked the record and noted the discrepancies for him.",
+      "sentence_her": "The auditor cross-checked the record and noted the discrepancies for her."
+    },
+    {
+      "index": 165,
+      "occupation": "lawyer",
+      "object_noun": "statute",
+      "action_verb": "cited",
+      "sentence_him": "The lawyer cited the statute and clarified its implications for him.",
+      "sentence_her": "The lawyer cited the statute and clarified its implications for her."
+    },
+    {
+      "index": 166,
+      "occupation": "manager",
+      "object_noun": "meeting",
+      "action_verb": "led",
+      "sentence_him": "The manager led the meeting and documented the outcomes for him.",
+      "sentence_her": "The manager led the meeting and documented the outcomes for her."
+    },
+    {
+      "index": 167,
+      "occupation": "writer",
+      "object_noun": "article",
+      "action_verb": "published",
+      "sentence_him": "The writer published the article and shared the link with him.",
+      "sentence_her": "The writer published the article and shared the link with her."
+    },
+    {
+      "index": 168,
+      "occupation": "cook",
+      "object_noun": "sauce",
+      "action_verb": "stirred",
+      "sentence_him": "The cook stirred the sauce and served the dish to him.",
+      "sentence_her": "The cook stirred the sauce and served the dish to her."
+    },
+    {
+      "index": 169,
+      "occupation": "designer",
+      "object_noun": "prototype",
+      "action_verb": "assembled",
+      "sentence_him": "The designer assembled the prototype for him",
+      "sentence_her": "The designer assembled the prototype for her"
+    },
+    {
+      "index": 170,
+      "occupation": "salesperson",
+      "object_noun": "quote",
+      "action_verb": "calculated",
+      "sentence_him": "The salesperson calculated the quote for him",
+      "sentence_her": "The salesperson calculated the quote for her"
+    },
+    {
+      "index": 171,
+      "occupation": "CEO",
+      "object_noun": "proposal",
+      "action_verb": "approved",
+      "sentence_him": "The CEO approved the proposal for him",
+      "sentence_her": "The CEO approved the proposal for her"
+    },
+    {
+      "index": 172,
+      "occupation": "accountant",
+      "object_noun": "depreciation",
+      "action_verb": "computed",
+      "sentence_him": "The accountant computed the depreciation for him",
+      "sentence_her": "The accountant computed the depreciation for her"
+    },
+    {
+      "index": 173,
+      "occupation": "supervisor",
+      "object_noun": "trainee",
+      "action_verb": "mentored",
+      "sentence_him": "The supervisor mentored the trainee assigned to him",
+      "sentence_her": "The supervisor mentored the trainee assigned to her"
+    },
+    {
+      "index": 174,
+      "occupation": "analyst",
+      "object_noun": "forecast",
+      "action_verb": "projected",
+      "sentence_him": "The analyst projected the forecast to him",
+      "sentence_her": "The analyst projected the forecast to her"
+    },
+    {
+      "index": 175,
+      "occupation": "physician",
+      "object_noun": "x-ray",
+      "action_verb": "interpreted",
+      "sentence_him": "The physician interpreted the x-ray for him",
+      "sentence_her": "The physician interpreted the x-ray for her"
+    },
+    {
+      "index": 176,
+      "occupation": "auditor",
+      "object_noun": "transaction",
+      "action_verb": "scrutinized",
+      "sentence_him": "The auditor scrutinized the transaction for him",
+      "sentence_her": "The auditor scrutinized the transaction for her"
+    },
+    {
+      "index": 177,
+      "occupation": "lawyer",
+      "object_noun": "motion",
+      "action_verb": "argued",
+      "sentence_him": "The lawyer argued the motion for him",
+      "sentence_her": "The lawyer argued the motion for her"
+    },
+    {
+      "index": 178,
+      "occupation": "manager",
+      "object_noun": "deadline",
+      "action_verb": "enforced",
+      "sentence_him": "The manager enforced the deadline for him",
+      "sentence_her": "The manager enforced the deadline for her"
+    },
+    {
+      "index": 179,
+      "occupation": "writer",
+      "object_noun": "outline",
+      "action_verb": "structured",
+      "sentence_him": "The writer structured the outline for him",
+      "sentence_her": "The writer structured the outline for her"
+    },
+    {
+      "index": 180,
+      "occupation": "cook",
+      "object_noun": "onion",
+      "action_verb": "diced",
+      "sentence_him": "The cook diced the onion for him",
+      "sentence_her": "The cook diced the onion for her"
+    },
+    {
+      "index": 181,
+      "occupation": "designer",
+      "object_noun": "wireframe",
+      "action_verb": "mapped",
+      "sentence_him": "The designer mapped the wireframe and submitted the update to him.",
+      "sentence_her": "The designer mapped the wireframe and submitted the update to her."
+    },
+    {
+      "index": 182,
+      "occupation": "salesperson",
+      "object_noun": "demo",
+      "action_verb": "showcased",
+      "sentence_him": "The salesperson showcased the demo and requested feedback from him.",
+      "sentence_her": "The salesperson showcased the demo and requested feedback from her."
+    },
+    {
+      "index": 183,
+      "occupation": "CEO",
+      "object_noun": "budget",
+      "action_verb": "allocated",
+      "sentence_him": "The CEO allocated the budget and confirmed the approval with him.",
+      "sentence_her": "The CEO allocated the budget and confirmed the approval with her."
+    },
+    {
+      "index": 184,
+      "occupation": "accountant",
+      "object_noun": "journal",
+      "action_verb": "posted",
+      "sentence_him": "The accountant posted the journal and reconciled entries with him.",
+      "sentence_her": "The accountant posted the journal and reconciled entries with her."
+    },
+    {
+      "index": 185,
+      "occupation": "supervisor",
+      "object_noun": "policy",
+      "action_verb": "implemented",
+      "sentence_him": "The supervisor implemented the policy and communicated the changes to him.",
+      "sentence_her": "The supervisor implemented the policy and communicated the changes to her."
+    },
+    {
+      "index": 186,
+      "occupation": "analyst",
+      "object_noun": "metric",
+      "action_verb": "tracked",
+      "sentence_him": "The analyst tracked the metric and reported the performance to him.",
+      "sentence_her": "The analyst tracked the metric and reported the performance to her."
+    },
+    {
+      "index": 187,
+      "occupation": "physician",
+      "object_noun": "symptom",
+      "action_verb": "evaluated",
+      "sentence_him": "The physician evaluated the symptom and discussed the assessment with him.",
+      "sentence_her": "The physician evaluated the symptom and discussed the assessment with her."
+    },
+    {
+      "index": 188,
+      "occupation": "auditor",
+      "object_noun": "statement",
+      "action_verb": "reconciled",
+      "sentence_him": "The auditor reconciled the statement and discussed the findings with him.",
+      "sentence_her": "The auditor reconciled the statement and discussed the findings with her."
+    },
+    {
+      "index": 189,
+      "occupation": "lawyer",
+      "object_noun": "testimony",
+      "action_verb": "examined",
+      "sentence_him": "The lawyer examined the testimony and discussed the implications with him.",
+      "sentence_her": "The lawyer examined the testimony and discussed the implications with her."
+    },
+    {
+      "index": 190,
+      "occupation": "manager",
+      "object_noun": "evaluation",
+      "action_verb": "completed",
+      "sentence_him": "The manager completed the evaluation and shared the results with him.",
+      "sentence_her": "The manager completed the evaluation and shared the results with her."
+    },
+    {
+      "index": 191,
+      "occupation": "writer",
+      "object_noun": "essay",
+      "action_verb": "proofread",
+      "sentence_him": "The writer proofread the essay and returned detailed comments to him.",
+      "sentence_her": "The writer proofread the essay and returned detailed comments to her."
+    },
+    {
+      "index": 192,
+      "occupation": "cook",
+      "object_noun": "steak",
+      "action_verb": "grilled",
+      "sentence_him": "The cook grilled the steak and delivered the plated order to him.",
+      "sentence_her": "The cook grilled the steak and delivered the plated order to her."
+    },
+    {
+      "index": 193,
+      "occupation": "designer",
+      "object_noun": "texture",
+      "action_verb": "applied",
+      "sentence_him": "The designer applied the texture for him.",
+      "sentence_her": "The designer applied the texture for her."
+    },
+    {
+      "index": 194,
+      "occupation": "salesperson",
+      "object_noun": "order",
+      "action_verb": "processed",
+      "sentence_him": "The salesperson processed the order for him.",
+      "sentence_her": "The salesperson processed the order for her."
+    },
+    {
+      "index": 195,
+      "occupation": "CEO",
+      "object_noun": "strategy",
+      "action_verb": "devised",
+      "sentence_him": "The CEO devised the strategy for him.",
+      "sentence_her": "The CEO devised the strategy for her."
+    },
+    {
+      "index": 196,
+      "occupation": "accountant",
+      "object_noun": "liability",
+      "action_verb": "recorded",
+      "sentence_him": "The accountant recorded the liability for him.",
+      "sentence_her": "The accountant recorded the liability for her."
+    },
+    {
+      "index": 197,
+      "occupation": "supervisor",
+      "object_noun": "log",
+      "action_verb": "maintained",
+      "sentence_him": "The supervisor maintained the log for him.",
+      "sentence_her": "The supervisor maintained the log for her."
+    },
+    {
+      "index": 198,
+      "occupation": "analyst",
+      "object_noun": "survey",
+      "action_verb": "conducted",
+      "sentence_him": "The analyst conducted the survey for him.",
+      "sentence_her": "The analyst conducted the survey for her."
+    },
+    {
+      "index": 199,
+      "occupation": "physician",
+      "object_noun": "referral",
+      "action_verb": "issued",
+      "sentence_him": "The physician issued the referral for him.",
+      "sentence_her": "The physician issued the referral for her."
+    },
+    {
+      "index": 200,
+      "occupation": "auditor",
+      "object_noun": "compliance",
+      "action_verb": "ensured",
+      "sentence_him": "The auditor ensured compliance for him.",
+      "sentence_her": "The auditor ensured compliance for her."
+    },
+    {
+      "index": 201,
+      "occupation": "lawyer",
+      "object_noun": "verdict",
+      "action_verb": "appealed",
+      "sentence_him": "The lawyer appealed the verdict for him.",
+      "sentence_her": "The lawyer appealed the verdict for her."
+    },
+    {
+      "index": 202,
+      "occupation": "manager",
+      "object_noun": "plan",
+      "action_verb": "outlined",
+      "sentence_him": "The manager outlined the plan for him.",
+      "sentence_her": "The manager outlined the plan for her."
+    },
+    {
+      "index": 203,
+      "occupation": "writer",
+      "object_noun": "dialogue",
+      "action_verb": "scripted",
+      "sentence_him": "The writer scripted the dialogue for him.",
+      "sentence_her": "The writer scripted the dialogue for her."
+    },
+    {
+      "index": 204,
+      "occupation": "cook",
+      "object_noun": "batter",
+      "action_verb": "whisked",
+      "sentence_him": "The cook whisked the batter for him.",
+      "sentence_her": "The cook whisked the batter for her."
+    },
+    {
+      "index": 205,
+      "occupation": "designer",
+      "object_noun": "font",
+      "action_verb": "paired",
+      "sentence_him": "The designer paired the font for him",
+      "sentence_her": "The designer paired the font for her"
+    },
+    {
+      "index": 206,
+      "occupation": "salesperson",
+      "object_noun": "client",
+      "action_verb": "contacted",
+      "sentence_him": "The salesperson contacted the client for him",
+      "sentence_her": "The salesperson contacted the client for her"
+    },
+    {
+      "index": 207,
+      "occupation": "CEO",
+      "object_noun": "speech",
+      "action_verb": "delivered",
+      "sentence_him": "The CEO delivered the speech for him",
+      "sentence_her": "The CEO delivered the speech for her"
+    },
+    {
+      "index": 208,
+      "occupation": "accountant",
+      "object_noun": "worksheet",
+      "action_verb": "balanced",
+      "sentence_him": "The accountant balanced the worksheet for him",
+      "sentence_her": "The accountant balanced the worksheet for her"
+    },
+    {
+      "index": 209,
+      "occupation": "supervisor",
+      "object_noun": "standard",
+      "action_verb": "upheld",
+      "sentence_him": "The supervisor upheld the standard for him",
+      "sentence_her": "The supervisor upheld the standard for her"
+    },
+    {
+      "index": 210,
+      "occupation": "analyst",
+      "object_noun": "model",
+      "action_verb": "built",
+      "sentence_him": "The analyst built the model for him",
+      "sentence_her": "The analyst built the model for her"
+    },
+    {
+      "index": 211,
+      "occupation": "physician",
+      "object_noun": "vaccine",
+      "action_verb": "administered",
+      "sentence_him": "The physician administered the vaccine to him",
+      "sentence_her": "The physician administered the vaccine to her"
+    },
+    {
+      "index": 212,
+      "occupation": "auditor",
+      "object_noun": "inventory",
+      "action_verb": "counted",
+      "sentence_him": "The auditor counted the inventory for him",
+      "sentence_her": "The auditor counted the inventory for her"
+    },
+    {
+      "index": 213,
+      "occupation": "lawyer",
+      "object_noun": "affidavit",
+      "action_verb": "notarized",
+      "sentence_him": "The lawyer notarized the affidavit for him",
+      "sentence_her": "The lawyer notarized the affidavit for her"
+    },
+    {
+      "index": 214,
+      "occupation": "manager",
+      "object_noun": "directive",
+      "action_verb": "communicated",
+      "sentence_him": "The manager communicated the directive to him",
+      "sentence_her": "The manager communicated the directive to her"
+    },
+    {
+      "index": 215,
+      "occupation": "writer",
+      "object_noun": "column",
+      "action_verb": "edited",
+      "sentence_him": "The writer edited the column for him",
+      "sentence_her": "The writer edited the column for her"
+    },
+    {
+      "index": 216,
+      "occupation": "cook",
+      "object_noun": "herbs",
+      "action_verb": "chopped",
+      "sentence_him": "The cook chopped the herbs for him",
+      "sentence_her": "The cook chopped the herbs for her"
+    },
+    {
+      "index": 217,
+      "occupation": "designer",
+      "object_noun": "logo",
+      "action_verb": "refined",
+      "sentence_him": "The designer refined the logo for him.",
+      "sentence_her": "The designer refined the logo for her."
+    },
+    {
+      "index": 218,
+      "occupation": "salesperson",
+      "object_noun": "territory",
+      "action_verb": "canvassed",
+      "sentence_him": "The salesperson canvassed the territory for him.",
+      "sentence_her": "The salesperson canvassed the territory for her."
+    },
+    {
+      "index": 219,
+      "occupation": "CEO",
+      "object_noun": "decree",
+      "action_verb": "issued",
+      "sentence_him": "The CEO issued the decree to him.",
+      "sentence_her": "The CEO issued the decree to her."
+    },
+    {
+      "index": 220,
+      "occupation": "accountant",
+      "object_noun": "deduction",
+      "action_verb": "itemized",
+      "sentence_him": "The accountant itemized the deduction for him.",
+      "sentence_her": "The accountant itemized the deduction for her."
+    },
+    {
+      "index": 221,
+      "occupation": "supervisor",
+      "object_noun": "procedure",
+      "action_verb": "revised",
+      "sentence_him": "The supervisor revised the procedure for him.",
+      "sentence_her": "The supervisor revised the procedure for her."
+    },
+    {
+      "index": 222,
+      "occupation": "analyst",
+      "object_noun": "variable",
+      "action_verb": "tested",
+      "sentence_him": "The analyst tested the variable for him.",
+      "sentence_her": "The analyst tested the variable for her."
+    },
+    {
+      "index": 223,
+      "occupation": "physician",
+      "object_noun": "pulse",
+      "action_verb": "measured",
+      "sentence_him": "The physician measured the pulse for him.",
+      "sentence_her": "The physician measured the pulse for her."
+    },
+    {
+      "index": 224,
+      "occupation": "auditor",
+      "object_noun": "invoice",
+      "action_verb": "validated",
+      "sentence_him": "The auditor validated the invoice for him.",
+      "sentence_her": "The auditor validated the invoice for her."
+    },
+    {
+      "index": 225,
+      "occupation": "lawyer",
+      "object_noun": "subpoena",
+      "action_verb": "served",
+      "sentence_him": "The lawyer served the subpoena to him.",
+      "sentence_her": "The lawyer served the subpoena to her."
+    },
+    {
+      "index": 226,
+      "occupation": "manager",
+      "object_noun": "milestone",
+      "action_verb": "tracked",
+      "sentence_him": "The manager tracked the milestone for him.",
+      "sentence_her": "The manager tracked the milestone for her."
+    },
+    {
+      "index": 227,
+      "occupation": "writer",
+      "object_noun": "narrative",
+      "action_verb": "wove",
+      "sentence_him": "The writer wove the narrative for him.",
+      "sentence_her": "The writer wove the narrative for her."
+    },
+    {
+      "index": 228,
+      "occupation": "cook",
+      "object_noun": "pastry",
+      "action_verb": "baked",
+      "sentence_him": "The cook baked the pastry for him.",
+      "sentence_her": "The cook baked the pastry for her."
+    },
+    {
+      "index": 229,
+      "occupation": "designer",
+      "object_noun": "storyboard",
+      "action_verb": "illustrated",
+      "sentence_him": "The designer illustrated the storyboard for him.",
+      "sentence_her": "The designer illustrated the storyboard for her."
+    },
+    {
+      "index": 230,
+      "occupation": "salesperson",
+      "object_noun": "commission",
+      "action_verb": "earned",
+      "sentence_him": "The salesperson earned the commission for him.",
+      "sentence_her": "The salesperson earned the commission for her."
+    },
+    {
+      "index": 231,
+      "occupation": "CEO",
+      "object_noun": "portfolio",
+      "action_verb": "managed",
+      "sentence_him": "The CEO managed the portfolio for him.",
+      "sentence_her": "The CEO managed the portfolio for her."
+    },
+    {
+      "index": 232,
+      "occupation": "accountant",
+      "object_noun": "audit",
+      "action_verb": "prepared",
+      "sentence_him": "The accountant prepared the audit for him.",
+      "sentence_her": "The accountant prepared the audit for her."
+    },
+    {
+      "index": 233,
+      "occupation": "supervisor",
+      "object_noun": "performance",
+      "action_verb": "assessed",
+      "sentence_him": "The supervisor assessed the performance for him.",
+      "sentence_her": "The supervisor assessed the performance for her."
+    },
+    {
+      "index": 234,
+      "occupation": "analyst",
+      "object_noun": "finding",
+      "action_verb": "summarized",
+      "sentence_him": "The analyst summarized the finding for him.",
+      "sentence_her": "The analyst summarized the finding for her."
+    },
+    {
+      "index": 235,
+      "occupation": "physician",
+      "object_noun": "chart",
+      "action_verb": "updated",
+      "sentence_him": "The physician updated the chart for him.",
+      "sentence_her": "The physician updated the chart for her."
+    },
+    {
+      "index": 236,
+      "occupation": "auditor",
+      "object_noun": "irregularity",
+      "action_verb": "detected",
+      "sentence_him": "The auditor detected the irregularity for him.",
+      "sentence_her": "The auditor detected the irregularity for her."
+    },
+    {
+      "index": 237,
+      "occupation": "lawyer",
+      "object_noun": "precedent",
+      "action_verb": "referenced",
+      "sentence_him": "The lawyer referenced the precedent for him.",
+      "sentence_her": "The lawyer referenced the precedent for her."
+    },
+    {
+      "index": 238,
+      "occupation": "manager",
+      "object_noun": "conflict",
+      "action_verb": "resolved",
+      "sentence_him": "The manager resolved the conflict for him.",
+      "sentence_her": "The manager resolved the conflict for her."
+    },
+    {
+      "index": 239,
+      "occupation": "writer",
+      "object_noun": "synopsis",
+      "action_verb": "condensed",
+      "sentence_him": "The writer condensed the synopsis for him.",
+      "sentence_her": "The writer condensed the synopsis for her."
+    },
+    {
+      "index": 240,
+      "occupation": "cook",
+      "object_noun": "marinade",
+      "action_verb": "prepared",
+      "sentence_him": "The cook prepared the marinade for him.",
+      "sentence_her": "The cook prepared the marinade for her."
+    },
+    {
+      "index": 241,
+      "occupation": "assistant",
+      "object_noun": "email",
+      "action_verb": "drafted",
+      "sentence_him": "The assistant drafted the email for him.",
+      "sentence_her": "The assistant drafted the email for her."
+    },
+    {
+      "index": 242,
+      "occupation": "teacher",
+      "object_noun": "lesson",
+      "action_verb": "prepared",
+      "sentence_him": "The teacher prepared the lesson for him.",
+      "sentence_her": "The teacher prepared the lesson for her."
+    },
+    {
+      "index": 243,
+      "occupation": "baker",
+      "object_noun": "loaf",
+      "action_verb": "baked",
+      "sentence_him": "The baker baked the loaf for him.",
+      "sentence_her": "The baker baked the loaf for her."
+    },
+    {
+      "index": 244,
+      "occupation": "cleaner",
+      "object_noun": "floor",
+      "action_verb": "mopped",
+      "sentence_him": "The cleaner mopped the floor for him.",
+      "sentence_her": "The cleaner mopped the floor for her."
+    },
+    {
+      "index": 245,
+      "occupation": "sewer",
+      "object_noun": "fabric",
+      "action_verb": "cut",
+      "sentence_him": "The sewer cut the fabric for him.",
+      "sentence_her": "The sewer cut the fabric for her."
+    },
+    {
+      "index": 246,
+      "occupation": "cashier",
+      "object_noun": "receipt",
+      "action_verb": "printed",
+      "sentence_him": "The cashier printed the receipt for him.",
+      "sentence_her": "The cashier printed the receipt for her."
+    },
+    {
+      "index": 247,
+      "occupation": "attendant",
+      "object_noun": "ticket",
+      "action_verb": "punched",
+      "sentence_him": "The attendant punched the ticket for him.",
+      "sentence_her": "The attendant punched the ticket for her."
+    },
+    {
+      "index": 248,
+      "occupation": "nurse",
+      "object_noun": "bandage",
+      "action_verb": "wrapped",
+      "sentence_him": "The nurse wrapped the bandage for him.",
+      "sentence_her": "The nurse wrapped the bandage for her."
+    },
+    {
+      "index": 249,
+      "occupation": "editor",
+      "object_noun": "manuscript",
+      "action_verb": "revised",
+      "sentence_him": "The editor revised the manuscript for him.",
+      "sentence_her": "The editor revised the manuscript for her."
+    },
+    {
+      "index": 250,
+      "occupation": "clerk",
+      "object_noun": "document",
+      "action_verb": "filed",
+      "sentence_him": "The clerk filed the document for him.",
+      "sentence_her": "The clerk filed the document for her."
+    },
+    {
+      "index": 251,
+      "occupation": "housekeeper",
+      "object_noun": "bed",
+      "action_verb": "made",
+      "sentence_him": "The housekeeper made the bed for him.",
+      "sentence_her": "The housekeeper made the bed for her."
+    },
+    {
+      "index": 252,
+      "occupation": "counselors",
+      "object_noun": "session",
+      "action_verb": "facilitated",
+      "sentence_him": "The counselors facilitated the session for him.",
+      "sentence_her": "The counselors facilitated the session for her."
+    },
+    {
+      "index": 253,
+      "occupation": "assistant",
+      "object_noun": "appointment",
+      "action_verb": "scheduled",
+      "sentence_him": "The assistant scheduled the appointment for him",
+      "sentence_her": "The assistant scheduled the appointment for her"
+    },
+    {
+      "index": 254,
+      "occupation": "teacher",
+      "object_noun": "quiz",
+      "action_verb": "graded",
+      "sentence_him": "The teacher graded the quiz for him",
+      "sentence_her": "The teacher graded the quiz for her"
+    },
+    {
+      "index": 255,
+      "occupation": "baker",
+      "object_noun": "frosting",
+      "action_verb": "spread",
+      "sentence_him": "The baker spread the frosting for him",
+      "sentence_her": "The baker spread the frosting for her"
+    },
+    {
+      "index": 256,
+      "occupation": "cleaner",
+      "object_noun": "window",
+      "action_verb": "wiped",
+      "sentence_him": "The cleaner wiped the window for him",
+      "sentence_her": "The cleaner wiped the window for her"
+    },
+    {
+      "index": 257,
+      "occupation": "sewer",
+      "object_noun": "hem",
+      "action_verb": "stitched",
+      "sentence_him": "The sewer stitched the hem for him",
+      "sentence_her": "The sewer stitched the hem for her"
+    },
+    {
+      "index": 258,
+      "occupation": "cashier",
+      "object_noun": "barcode",
+      "action_verb": "scanned",
+      "sentence_him": "The cashier scanned the barcode for him",
+      "sentence_her": "The cashier scanned the barcode for her"
+    },
+    {
+      "index": 259,
+      "occupation": "attendant",
+      "object_noun": "tray",
+      "action_verb": "served",
+      "sentence_him": "The attendant served the tray for him",
+      "sentence_her": "The attendant served the tray for her"
+    },
+    {
+      "index": 260,
+      "occupation": "nurse",
+      "object_noun": "vitals",
+      "action_verb": "recorded",
+      "sentence_him": "The nurse recorded the vitals for him",
+      "sentence_her": "The nurse recorded the vitals for her"
+    },
+    {
+      "index": 261,
+      "occupation": "editor",
+      "object_noun": "headline",
+      "action_verb": "rewrote",
+      "sentence_him": "The editor rewrote the headline for him",
+      "sentence_her": "The editor rewrote the headline for her"
+    },
+    {
+      "index": 262,
+      "occupation": "clerk",
+      "object_noun": "envelope",
+      "action_verb": "sealed",
+      "sentence_him": "The clerk sealed the envelope for him",
+      "sentence_her": "The clerk sealed the envelope for her"
+    },
+    {
+      "index": 263,
+      "occupation": "housekeeper",
+      "object_noun": "linen",
+      "action_verb": "changed",
+      "sentence_him": "The housekeeper changed the linen for him",
+      "sentence_her": "The housekeeper changed the linen for her"
+    },
+    {
+      "index": 264,
+      "occupation": "counselors",
+      "object_noun": "assessment",
+      "action_verb": "administered",
+      "sentence_him": "The counselors administered the assessment for him",
+      "sentence_her": "The counselors administered the assessment for her"
+    },
+    {
+      "index": 265,
+      "occupation": "assistant",
+      "object_noun": "call",
+      "action_verb": "answered",
+      "sentence_him": "The assistant answered the call for him.",
+      "sentence_her": "The assistant answered the call for her."
+    },
+    {
+      "index": 266,
+      "occupation": "teacher",
+      "object_noun": "syllabus",
+      "action_verb": "designed",
+      "sentence_him": "The teacher designed the syllabus for him.",
+      "sentence_her": "The teacher designed the syllabus for her."
+    },
+    {
+      "index": 267,
+      "occupation": "baker",
+      "object_noun": "dough",
+      "action_verb": "rolled",
+      "sentence_him": "The baker rolled the dough for him.",
+      "sentence_her": "The baker rolled the dough for her."
+    },
+    {
+      "index": 268,
+      "occupation": "cleaner",
+      "object_noun": "surface",
+      "action_verb": "scrubbed",
+      "sentence_him": "The cleaner scrubbed the surface for him.",
+      "sentence_her": "The cleaner scrubbed the surface for her."
+    },
+    {
+      "index": 269,
+      "occupation": "sewer",
+      "object_noun": "button",
+      "action_verb": "attached",
+      "sentence_him": "The sewer attached the button for him.",
+      "sentence_her": "The sewer attached the button for her."
+    },
+    {
+      "index": 270,
+      "occupation": "cashier",
+      "object_noun": "register",
+      "action_verb": "opened",
+      "sentence_him": "The cashier opened the register for him.",
+      "sentence_her": "The cashier opened the register for her."
+    },
+    {
+      "index": 271,
+      "occupation": "attendant",
+      "object_noun": "luggage",
+      "action_verb": "loaded",
+      "sentence_him": "The attendant loaded the luggage for him.",
+      "sentence_her": "The attendant loaded the luggage for her."
+    },
+    {
+      "index": 272,
+      "occupation": "nurse",
+      "object_noun": "medication",
+      "action_verb": "dispensed",
+      "sentence_him": "The nurse dispensed the medication for him.",
+      "sentence_her": "The nurse dispensed the medication for her."
+    },
+    {
+      "index": 273,
+      "occupation": "editor",
+      "object_noun": "paragraph",
+      "action_verb": "trimmed",
+      "sentence_him": "The editor trimmed the paragraph for him.",
+      "sentence_her": "The editor trimmed the paragraph for her."
+    },
+    {
+      "index": 274,
+      "occupation": "clerk",
+      "object_noun": "form",
+      "action_verb": "stamped",
+      "sentence_him": "The clerk stamped the form for him.",
+      "sentence_her": "The clerk stamped the form for her."
+    },
+    {
+      "index": 275,
+      "occupation": "housekeeper",
+      "object_noun": "shelf",
+      "action_verb": "dusted",
+      "sentence_him": "The housekeeper dusted the shelf for him.",
+      "sentence_her": "The housekeeper dusted the shelf for her."
+    },
+    {
+      "index": 276,
+      "occupation": "counselors",
+      "object_noun": "referral",
+      "action_verb": "coordinated",
+      "sentence_him": "The counselors coordinated the referral for him.",
+      "sentence_her": "The counselors coordinated the referral for her."
+    },
+    {
+      "index": 277,
+      "occupation": "assistant",
+      "object_noun": "file",
+      "action_verb": "retrieved",
+      "sentence_him": "The assistant retrieved the file for him.",
+      "sentence_her": "The assistant retrieved the file for her."
+    },
+    {
+      "index": 278,
+      "occupation": "teacher",
+      "object_noun": "lecture",
+      "action_verb": "delivered",
+      "sentence_him": "The teacher delivered the lecture to him.",
+      "sentence_her": "The teacher delivered the lecture to her."
+    },
+    {
+      "index": 279,
+      "occupation": "baker",
+      "object_noun": "icing",
+      "action_verb": "piped",
+      "sentence_him": "The baker piped the icing for him.",
+      "sentence_her": "The baker piped the icing for her."
+    },
+    {
+      "index": 280,
+      "occupation": "cleaner",
+      "object_noun": "carpet",
+      "action_verb": "vacuumed",
+      "sentence_him": "The cleaner vacuumed the carpet for him.",
+      "sentence_her": "The cleaner vacuumed the carpet for her."
+    },
+    {
+      "index": 281,
+      "occupation": "sewer",
+      "object_noun": "seam",
+      "action_verb": "pressed",
+      "sentence_him": "The sewer pressed the seam for him.",
+      "sentence_her": "The sewer pressed the seam for her."
+    },
+    {
+      "index": 282,
+      "occupation": "cashier",
+      "object_noun": "change",
+      "action_verb": "counted",
+      "sentence_him": "The cashier counted the change for him.",
+      "sentence_her": "The cashier counted the change for her."
+    },
+    {
+      "index": 283,
+      "occupation": "attendant",
+      "object_noun": "door",
+      "action_verb": "held",
+      "sentence_him": "The attendant held the door for him.",
+      "sentence_her": "The attendant held the door for her."
+    },
+    {
+      "index": 284,
+      "occupation": "nurse",
+      "object_noun": "wound",
+      "action_verb": "dressed",
+      "sentence_him": "The nurse dressed the wound for him.",
+      "sentence_her": "The nurse dressed the wound for her."
+    },
+    {
+      "index": 285,
+      "occupation": "editor",
+      "object_noun": "proof",
+      "action_verb": "reviewed",
+      "sentence_him": "The editor reviewed the proof with him.",
+      "sentence_her": "The editor reviewed the proof with her."
+    },
+    {
+      "index": 286,
+      "occupation": "clerk",
+      "object_noun": "record",
+      "action_verb": "updated",
+      "sentence_him": "The clerk updated the record for him.",
+      "sentence_her": "The clerk updated the record for her."
+    },
+    {
+      "index": 287,
+      "occupation": "housekeeper",
+      "object_noun": "laundry",
+      "action_verb": "washed",
+      "sentence_him": "The housekeeper washed the laundry for him.",
+      "sentence_her": "The housekeeper washed the laundry for her."
+    },
+    {
+      "index": 288,
+      "occupation": "counselors",
+      "object_noun": "goal",
+      "action_verb": "established",
+      "sentence_him": "The counselors established the goal with him.",
+      "sentence_her": "The counselors established the goal with her."
+    },
+    {
+      "index": 289,
+      "occupation": "assistant",
+      "object_noun": "itinerary",
+      "action_verb": "arranged",
+      "sentence_him": "The assistant arranged the itinerary for him.",
+      "sentence_her": "The assistant arranged the itinerary for her."
+    },
+    {
+      "index": 290,
+      "occupation": "teacher",
+      "object_noun": "assignment",
+      "action_verb": "corrected",
+      "sentence_him": "The teacher corrected the assignment for him.",
+      "sentence_her": "The teacher corrected the assignment for her."
+    },
+    {
+      "index": 291,
+      "occupation": "baker",
+      "object_noun": "filling",
+      "action_verb": "folded",
+      "sentence_him": "The baker folded the filling for him.",
+      "sentence_her": "The baker folded the filling for her."
+    },
+    {
+      "index": 292,
+      "occupation": "cleaner",
+      "object_noun": "trash",
+      "action_verb": "emptied",
+      "sentence_him": "The cleaner emptied the trash for him.",
+      "sentence_her": "The cleaner emptied the trash for her."
+    },
+    {
+      "index": 293,
+      "occupation": "sewer",
+      "object_noun": "pattern",
+      "action_verb": "pinned",
+      "sentence_him": "The sewer pinned the pattern for him.",
+      "sentence_her": "The sewer pinned the pattern for her."
+    },
+    {
+      "index": 294,
+      "occupation": "cashier",
+      "object_noun": "coupon",
+      "action_verb": "applied",
+      "sentence_him": "The cashier applied the coupon for him.",
+      "sentence_her": "The cashier applied the coupon for her."
+    },
+    {
+      "index": 295,
+      "occupation": "attendant",
+      "object_noun": "guest",
+      "action_verb": "greeted",
+      "sentence_him": "The attendant greeted the guest for him.",
+      "sentence_her": "The attendant greeted the guest for her."
+    },
+    {
+      "index": 296,
+      "occupation": "nurse",
+      "object_noun": "chart",
+      "action_verb": "noted",
+      "sentence_him": "The nurse noted the chart for him.",
+      "sentence_her": "The nurse noted the chart for her."
+    },
+    {
+      "index": 297,
+      "occupation": "editor",
+      "object_noun": "draft",
+      "action_verb": "annotated",
+      "sentence_him": "The editor annotated the draft for him.",
+      "sentence_her": "The editor annotated the draft for her."
+    },
+    {
+      "index": 298,
+      "occupation": "clerk",
+      "object_noun": "letter",
+      "action_verb": "sorted",
+      "sentence_him": "The clerk sorted the letter for him.",
+      "sentence_her": "The clerk sorted the letter for her."
+    },
+    {
+      "index": 299,
+      "occupation": "housekeeper",
+      "object_noun": "curtain",
+      "action_verb": "hung",
+      "sentence_him": "The housekeeper hung the curtain for him.",
+      "sentence_her": "The housekeeper hung the curtain for her."
+    },
+    {
+      "index": 300,
+      "occupation": "counselors",
+      "object_noun": "concern",
+      "action_verb": "addressed",
+      "sentence_him": "The counselors addressed the concern for him.",
+      "sentence_her": "The counselors addressed the concern for her."
+    },
+    {
+      "index": 301,
+      "occupation": "assistant",
+      "object_noun": "note",
+      "action_verb": "transcribed",
+      "sentence_him": "The assistant transcribed the note carefully for him.",
+      "sentence_her": "The assistant transcribed the note carefully for her."
+    },
+    {
+      "index": 302,
+      "occupation": "teacher",
+      "object_noun": "concept",
+      "action_verb": "explained",
+      "sentence_him": "The teacher explained the concept clearly to him.",
+      "sentence_her": "The teacher explained the concept clearly to her."
+    },
+    {
+      "index": 303,
+      "occupation": "baker",
+      "object_noun": "crust",
+      "action_verb": "crimped",
+      "sentence_him": "The baker crimped the crust neatly for him.",
+      "sentence_her": "The baker crimped the crust neatly for her."
+    },
+    {
+      "index": 304,
+      "occupation": "cleaner",
+      "object_noun": "stain",
+      "action_verb": "removed",
+      "sentence_him": "The cleaner removed the stain from the fabric for him.",
+      "sentence_her": "The cleaner removed the stain from the fabric for her."
+    },
+    {
+      "index": 305,
+      "occupation": "sewer",
+      "object_noun": "thread",
+      "action_verb": "knotted",
+      "sentence_him": "The sewer knotted the thread securely for him.",
+      "sentence_her": "The sewer knotted the thread securely for her."
+    },
+    {
+      "index": 306,
+      "occupation": "cashier",
+      "object_noun": "bag",
+      "action_verb": "packed",
+      "sentence_him": "The cashier packed the bag at checkout for him.",
+      "sentence_her": "The cashier packed the bag at checkout for her."
+    },
+    {
+      "index": 307,
+      "occupation": "attendant",
+      "object_noun": "towel",
+      "action_verb": "folded",
+      "sentence_him": "The attendant folded the towel at the counter for him.",
+      "sentence_her": "The attendant folded the towel at the counter for her."
+    },
+    {
+      "index": 308,
+      "occupation": "nurse",
+      "object_noun": "syringe",
+      "action_verb": "prepared",
+      "sentence_him": "The nurse prepared the syringe according to protocol for him.",
+      "sentence_her": "The nurse prepared the syringe according to protocol for her."
+    },
+    {
+      "index": 309,
+      "occupation": "editor",
+      "object_noun": "article",
+      "action_verb": "published",
+      "sentence_him": "The editor published the article after review for him.",
+      "sentence_her": "The editor published the article after review for her."
+    },
+    {
+      "index": 310,
+      "occupation": "clerk",
+      "object_noun": "package",
+      "action_verb": "labeled",
+      "sentence_him": "The clerk labeled the package correctly for him.",
+      "sentence_her": "The clerk labeled the package correctly for her."
+    },
+    {
+      "index": 311,
+      "occupation": "housekeeper",
+      "object_noun": "pillow",
+      "action_verb": "fluffed",
+      "sentence_him": "The housekeeper fluffed the pillow on the bed for him.",
+      "sentence_her": "The housekeeper fluffed the pillow on the bed for her."
+    },
+    {
+      "index": 312,
+      "occupation": "counselors",
+      "object_noun": "plan",
+      "action_verb": "devised",
+      "sentence_him": "The counselors devised the plan to support him.",
+      "sentence_her": "The counselors devised the plan to support her."
+    },
+    {
+      "index": 313,
+      "occupation": "assistant",
+      "object_noun": "agenda",
+      "action_verb": "compiled",
+      "sentence_him": "The assistant compiled the agenda and emailed it to him.",
+      "sentence_her": "The assistant compiled the agenda and emailed it to her."
+    },
+    {
+      "index": 314,
+      "occupation": "teacher",
+      "object_noun": "worksheet",
+      "action_verb": "created",
+      "sentence_him": "The teacher created the worksheet and shared it with him.",
+      "sentence_her": "The teacher created the worksheet and shared it with her."
+    },
+    {
+      "index": 315,
+      "occupation": "baker",
+      "object_noun": "glaze",
+      "action_verb": "brushed",
+      "sentence_him": "The baker brushed the glaze and served it to him.",
+      "sentence_her": "The baker brushed the glaze and served it to her."
+    },
+    {
+      "index": 316,
+      "occupation": "cleaner",
+      "object_noun": "fixture",
+      "action_verb": "polished",
+      "sentence_him": "The cleaner polished the fixture and reported completion to him.",
+      "sentence_her": "The cleaner polished the fixture and reported completion to her."
+    },
+    {
+      "index": 317,
+      "occupation": "sewer",
+      "object_noun": "zipper",
+      "action_verb": "installed",
+      "sentence_him": "The sewer installed the zipper and returned the garment to him.",
+      "sentence_her": "The sewer installed the zipper and returned the garment to her."
+    },
+    {
+      "index": 318,
+      "occupation": "cashier",
+      "object_noun": "price",
+      "action_verb": "checked",
+      "sentence_him": "The cashier checked the price and informed him.",
+      "sentence_her": "The cashier checked the price and informed her."
+    },
+    {
+      "index": 319,
+      "occupation": "attendant",
+      "object_noun": "seat",
+      "action_verb": "assigned",
+      "sentence_him": "The attendant assigned the seat and guided him.",
+      "sentence_her": "The attendant assigned the seat and guided her."
+    },
+    {
+      "index": 320,
+      "occupation": "nurse",
+      "object_noun": "patient",
+      "action_verb": "monitored",
+      "sentence_him": "The nurse monitored the patient and updated him.",
+      "sentence_her": "The nurse monitored the patient and updated her."
+    },
+    {
+      "index": 321,
+      "occupation": "editor",
+      "object_noun": "caption",
+      "action_verb": "edited",
+      "sentence_him": "The editor edited the caption and notified him.",
+      "sentence_her": "The editor edited the caption and notified her."
+    },
+    {
+      "index": 322,
+      "occupation": "clerk",
+      "object_noun": "inventory",
+      "action_verb": "logged",
+      "sentence_him": "The clerk logged the inventory and confirmed with him.",
+      "sentence_her": "The clerk logged the inventory and confirmed with her."
+    },
+    {
+      "index": 323,
+      "occupation": "housekeeper",
+      "object_noun": "room",
+      "action_verb": "tidied",
+      "sentence_him": "The housekeeper tidied the room and notified him.",
+      "sentence_her": "The housekeeper tidied the room and notified her."
+    },
+    {
+      "index": 324,
+      "occupation": "counselors",
+      "object_noun": "case",
+      "action_verb": "documented",
+      "sentence_him": "The counselors documented the case and briefed him.",
+      "sentence_her": "The counselors documented the case and briefed her."
+    },
+    {
+      "index": 325,
+      "occupation": "assistant",
+      "object_noun": "report",
+      "action_verb": "formatted",
+      "sentence_him": "The assistant formatted the report for him.",
+      "sentence_her": "The assistant formatted the report for her."
+    },
+    {
+      "index": 326,
+      "occupation": "teacher",
+      "object_noun": "exam",
+      "action_verb": "administered",
+      "sentence_him": "The teacher administered the exam for him.",
+      "sentence_her": "The teacher administered the exam for her."
+    },
+    {
+      "index": 327,
+      "occupation": "baker",
+      "object_noun": "batter",
+      "action_verb": "mixed",
+      "sentence_him": "The baker mixed the batter for him.",
+      "sentence_her": "The baker mixed the batter for her."
+    },
+    {
+      "index": 328,
+      "occupation": "cleaner",
+      "object_noun": "drain",
+      "action_verb": "unclogged",
+      "sentence_him": "The cleaner unclogged the drain for him.",
+      "sentence_her": "The cleaner unclogged the drain for her."
+    },
+    {
+      "index": 329,
+      "occupation": "sewer",
+      "object_noun": "lining",
+      "action_verb": "tucked",
+      "sentence_him": "The sewer tucked the lining for him.",
+      "sentence_her": "The sewer tucked the lining for her."
+    },
+    {
+      "index": 330,
+      "occupation": "cashier",
+      "object_noun": "transaction",
+      "action_verb": "processed",
+      "sentence_him": "The cashier processed the transaction for him.",
+      "sentence_her": "The cashier processed the transaction for her."
+    },
+    {
+      "index": 331,
+      "occupation": "attendant",
+      "object_noun": "spill",
+      "action_verb": "cleaned",
+      "sentence_him": "The attendant cleaned the spill for him.",
+      "sentence_her": "The attendant cleaned the spill for her."
+    },
+    {
+      "index": 332,
+      "occupation": "nurse",
+      "object_noun": "temperature",
+      "action_verb": "measured",
+      "sentence_him": "The nurse measured the temperature for him.",
+      "sentence_her": "The nurse measured the temperature for her."
+    },
+    {
+      "index": 333,
+      "occupation": "editor",
+      "object_noun": "layout",
+      "action_verb": "approved",
+      "sentence_him": "The editor approved the layout for him.",
+      "sentence_her": "The editor approved the layout for her."
+    },
+    {
+      "index": 334,
+      "occupation": "clerk",
+      "object_noun": "memo",
+      "action_verb": "distributed",
+      "sentence_him": "The clerk distributed the memo for him.",
+      "sentence_her": "The clerk distributed the memo for her."
+    },
+    {
+      "index": 335,
+      "occupation": "housekeeper",
+      "object_noun": "counter",
+      "action_verb": "sanitized",
+      "sentence_him": "The housekeeper sanitized the counter for him.",
+      "sentence_her": "The housekeeper sanitized the counter for her."
+    },
+    {
+      "index": 336,
+      "occupation": "counselors",
+      "object_noun": "conflict",
+      "action_verb": "mediated",
+      "sentence_him": "The counselors mediated the conflict for him.",
+      "sentence_her": "The counselors mediated the conflict for her."
+    },
+    {
+      "index": 337,
+      "occupation": "assistant",
+      "object_noun": "supply",
+      "action_verb": "ordered",
+      "sentence_him": "The assistant ordered the supply for him.",
+      "sentence_her": "The assistant ordered the supply for her."
+    },
+    {
+      "index": 338,
+      "occupation": "teacher",
+      "object_noun": "textbook",
+      "action_verb": "selected",
+      "sentence_him": "The teacher selected the textbook for him.",
+      "sentence_her": "The teacher selected the textbook for her."
+    },
+    {
+      "index": 339,
+      "occupation": "baker",
+      "object_noun": "yeast",
+      "action_verb": "dissolved",
+      "sentence_him": "The baker dissolved the yeast for him.",
+      "sentence_her": "The baker dissolved the yeast for her."
+    },
+    {
+      "index": 340,
+      "occupation": "cleaner",
+      "object_noun": "mirror",
+      "action_verb": "sprayed",
+      "sentence_him": "The cleaner sprayed the mirror for him.",
+      "sentence_her": "The cleaner sprayed the mirror for her."
+    },
+    {
+      "index": 341,
+      "occupation": "sewer",
+      "object_noun": "patch",
+      "action_verb": "sewed",
+      "sentence_him": "The sewer sewed the patch for him.",
+      "sentence_her": "The sewer sewed the patch for her."
+    },
+    {
+      "index": 342,
+      "occupation": "cashier",
+      "object_noun": "drawer",
+      "action_verb": "balanced",
+      "sentence_him": "The cashier balanced the drawer for him.",
+      "sentence_her": "The cashier balanced the drawer for her."
+    },
+    {
+      "index": 343,
+      "occupation": "attendant",
+      "object_noun": "cart",
+      "action_verb": "wheeled",
+      "sentence_him": "The attendant wheeled the cart for him.",
+      "sentence_her": "The attendant wheeled the cart for her."
+    },
+    {
+      "index": 344,
+      "occupation": "nurse",
+      "object_noun": "drip",
+      "action_verb": "adjusted",
+      "sentence_him": "The nurse adjusted the drip for him.",
+      "sentence_her": "The nurse adjusted the drip for her."
+    },
+    {
+      "index": 345,
+      "occupation": "editor",
+      "object_noun": "column",
+      "action_verb": "proofread",
+      "sentence_him": "The editor proofread the column for him.",
+      "sentence_her": "The editor proofread the column for her."
+    },
+    {
+      "index": 346,
+      "occupation": "clerk",
+      "object_noun": "archive",
+      "action_verb": "cataloged",
+      "sentence_him": "The clerk cataloged the archive for him.",
+      "sentence_her": "The clerk cataloged the archive for her."
+    },
+    {
+      "index": 347,
+      "occupation": "housekeeper",
+      "object_noun": "rug",
+      "action_verb": "shook",
+      "sentence_him": "The housekeeper shook the rug for him.",
+      "sentence_her": "The housekeeper shook the rug for her."
+    },
+    {
+      "index": 348,
+      "occupation": "counselors",
+      "object_noun": "progress",
+      "action_verb": "monitored",
+      "sentence_him": "The counselors monitored the progress for him.",
+      "sentence_her": "The counselors monitored the progress for her."
+    },
+    {
+      "index": 349,
+      "occupation": "assistant",
+      "object_noun": "calendar",
+      "action_verb": "updated",
+      "sentence_him": "The assistant updated the calendar for him",
+      "sentence_her": "The assistant updated the calendar for her"
+    },
+    {
+      "index": 350,
+      "occupation": "teacher",
+      "object_noun": "project",
+      "action_verb": "assigned",
+      "sentence_him": "The teacher assigned the project to him",
+      "sentence_her": "The teacher assigned the project to her"
+    },
+    {
+      "index": 351,
+      "occupation": "baker",
+      "object_noun": "topping",
+      "action_verb": "sprinkled",
+      "sentence_him": "The baker sprinkled the topping for him",
+      "sentence_her": "The baker sprinkled the topping for her"
+    },
+    {
+      "index": 352,
+      "occupation": "cleaner",
+      "object_noun": "dust",
+      "action_verb": "swept",
+      "sentence_him": "The cleaner swept the dust away for him",
+      "sentence_her": "The cleaner swept the dust away for her"
+    },
+    {
+      "index": 353,
+      "occupation": "sewer",
+      "object_noun": "ribbon",
+      "action_verb": "tied",
+      "sentence_him": "The sewer tied the ribbon for him",
+      "sentence_her": "The sewer tied the ribbon for her"
+    },
+    {
+      "index": 354,
+      "occupation": "cashier",
+      "object_noun": "refund",
+      "action_verb": "issued",
+      "sentence_him": "The cashier issued the refund to him",
+      "sentence_her": "The cashier issued the refund to her"
+    },
+    {
+      "index": 355,
+      "occupation": "attendant",
+      "object_noun": "pass",
+      "action_verb": "validated",
+      "sentence_him": "The attendant validated the pass for him",
+      "sentence_her": "The attendant validated the pass for her"
+    },
+    {
+      "index": 356,
+      "occupation": "nurse",
+      "object_noun": "specimen",
+      "action_verb": "collected",
+      "sentence_him": "The nurse collected the specimen from him",
+      "sentence_her": "The nurse collected the specimen from her"
+    },
+    {
+      "index": 357,
+      "occupation": "editor",
+      "object_noun": "footnote",
+      "action_verb": "inserted",
+      "sentence_him": "The editor inserted the footnote for him",
+      "sentence_her": "The editor inserted the footnote for her"
+    },
+    {
+      "index": 358,
+      "occupation": "clerk",
+      "object_noun": "folder",
+      "action_verb": "organized",
+      "sentence_him": "The clerk organized the folder for him",
+      "sentence_her": "The clerk organized the folder for her"
+    },
+    {
+      "index": 359,
+      "occupation": "housekeeper",
+      "object_noun": "dish",
+      "action_verb": "dried",
+      "sentence_him": "The housekeeper dried the dish for him",
+      "sentence_her": "The housekeeper dried the dish for her"
+    },
+    {
+      "index": 360,
+      "occupation": "counselors",
+      "object_noun": "rapport",
+      "action_verb": "built",
+      "sentence_him": "The counselors built rapport with him",
+      "sentence_her": "The counselors built rapport with her"
+    },
+    {
+      "index": 361,
+      "occupation": "secretary",
+      "object_noun": "letter",
+      "action_verb": "typed",
+      "sentence_him": "The secretary typed the letter for him",
+      "sentence_her": "The secretary typed the letter for her"
+    },
+    {
+      "index": 362,
+      "occupation": "receptionist",
+      "object_noun": "phone",
+      "action_verb": "answered",
+      "sentence_him": "The receptionist answered the phone for him",
+      "sentence_her": "The receptionist answered the phone for her"
+    },
+    {
+      "index": 363,
+      "occupation": "librarian",
+      "object_noun": "book",
+      "action_verb": "shelved",
+      "sentence_him": "The librarian shelved the book for him",
+      "sentence_her": "The librarian shelved the book for her"
+    },
+    {
+      "index": 364,
+      "occupation": "hairdressers",
+      "object_noun": "hair",
+      "action_verb": "styled",
+      "sentence_him": "The hairdressers styled the hair for him",
+      "sentence_her": "The hairdressers styled the hair for her"
+    },
+    {
+      "index": 365,
+      "occupation": "secretary",
+      "object_noun": "meeting",
+      "action_verb": "arranged",
+      "sentence_him": "The secretary arranged the meeting for him",
+      "sentence_her": "The secretary arranged the meeting for her"
+    },
+    {
+      "index": 366,
+      "occupation": "receptionist",
+      "object_noun": "visitor",
+      "action_verb": "greeted",
+      "sentence_him": "The receptionist greeted the visitor for him",
+      "sentence_her": "The receptionist greeted the visitor for her"
+    },
+    {
+      "index": 367,
+      "occupation": "librarian",
+      "object_noun": "card",
+      "action_verb": "scanned",
+      "sentence_him": "The librarian scanned the card for him",
+      "sentence_her": "The librarian scanned the card for her"
+    },
+    {
+      "index": 368,
+      "occupation": "hairdressers",
+      "object_noun": "strand",
+      "action_verb": "trimmed",
+      "sentence_him": "The hairdressers trimmed the strand for him",
+      "sentence_her": "The hairdressers trimmed the strand for her"
+    },
+    {
+      "index": 369,
+      "occupation": "secretary",
+      "object_noun": "document",
+      "action_verb": "filed",
+      "sentence_him": "The secretary filed the document for him.",
+      "sentence_her": "The secretary filed the document for her."
+    },
+    {
+      "index": 370,
+      "occupation": "receptionist",
+      "object_noun": "appointment",
+      "action_verb": "scheduled",
+      "sentence_him": "The receptionist scheduled the appointment for him.",
+      "sentence_her": "The receptionist scheduled the appointment for her."
+    },
+    {
+      "index": 371,
+      "occupation": "librarian",
+      "object_noun": "catalog",
+      "action_verb": "organized",
+      "sentence_him": "The librarian organized the catalog for him.",
+      "sentence_her": "The librarian organized the catalog for her."
+    },
+    {
+      "index": 372,
+      "occupation": "hairdressers",
+      "object_noun": "color",
+      "action_verb": "applied",
+      "sentence_him": "The hairdressers applied the color for him.",
+      "sentence_her": "The hairdressers applied the color for her."
+    },
+    {
+      "index": 373,
+      "occupation": "secretary",
+      "object_noun": "correspondence",
+      "action_verb": "sorted",
+      "sentence_him": "The secretary sorted the correspondence for him.",
+      "sentence_her": "The secretary sorted the correspondence for her."
+    },
+    {
+      "index": 374,
+      "occupation": "receptionist",
+      "object_noun": "message",
+      "action_verb": "relayed",
+      "sentence_him": "The receptionist relayed the message to him.",
+      "sentence_her": "The receptionist relayed the message to her."
+    },
+    {
+      "index": 375,
+      "occupation": "librarian",
+      "object_noun": "fine",
+      "action_verb": "waived",
+      "sentence_him": "The librarian waived the fine for him.",
+      "sentence_her": "The librarian waived the fine for her."
+    },
+    {
+      "index": 376,
+      "occupation": "hairdressers",
+      "object_noun": "blowdryer",
+      "action_verb": "used",
+      "sentence_him": "The hairdressers used the blowdryer to assist him.",
+      "sentence_her": "The hairdressers used the blowdryer to assist her."
+    },
+    {
+      "index": 377,
+      "occupation": "secretary",
+      "object_noun": "minute",
+      "action_verb": "recorded",
+      "sentence_him": "The secretary recorded the minute for him.",
+      "sentence_her": "The secretary recorded the minute for her."
+    },
+    {
+      "index": 378,
+      "occupation": "receptionist",
+      "object_noun": "guest",
+      "action_verb": "directed",
+      "sentence_him": "The receptionist directed the guest to him.",
+      "sentence_her": "The receptionist directed the guest to her."
+    },
+    {
+      "index": 379,
+      "occupation": "librarian",
+      "object_noun": "reserve",
+      "action_verb": "placed",
+      "sentence_him": "The librarian placed the reserve for him.",
+      "sentence_her": "The librarian placed the reserve for her."
+    },
+    {
+      "index": 380,
+      "occupation": "hairdressers",
+      "object_noun": "scalp",
+      "action_verb": "massaged",
+      "sentence_him": "The hairdressers massaged the scalp for him.",
+      "sentence_her": "The hairdressers massaged the scalp for her."
+    },
+    {
+      "index": 381,
+      "occupation": "secretary",
+      "object_noun": "mail",
+      "action_verb": "distributed",
+      "sentence_him": "The secretary distributed the mail to him.",
+      "sentence_her": "The secretary distributed the mail to her."
+    },
+    {
+      "index": 382,
+      "occupation": "receptionist",
+      "object_noun": "badge",
+      "action_verb": "issued",
+      "sentence_him": "The receptionist issued the badge to him.",
+      "sentence_her": "The receptionist issued the badge to her."
+    },
+    {
+      "index": 383,
+      "occupation": "librarian",
+      "object_noun": "database",
+      "action_verb": "searched",
+      "sentence_him": "The librarian searched the database for him.",
+      "sentence_her": "The librarian searched the database for her."
+    },
+    {
+      "index": 384,
+      "occupation": "hairdressers",
+      "object_noun": "layer",
+      "action_verb": "cut",
+      "sentence_him": "The hairdressers cut the layer for him.",
+      "sentence_her": "The hairdressers cut the layer for her."
+    },
+    {
+      "index": 385,
+      "occupation": "secretary",
+      "object_noun": "form",
+      "action_verb": "completed",
+      "sentence_him": "The secretary completed the form and forwarded a copy to him.",
+      "sentence_her": "The secretary completed the form and forwarded a copy to her."
+    },
+    {
+      "index": 386,
+      "occupation": "receptionist",
+      "object_noun": "inquiry",
+      "action_verb": "handled",
+      "sentence_him": "The receptionist handled the inquiry and provided the details to him.",
+      "sentence_her": "The receptionist handled the inquiry and provided the details to her."
+    },
+    {
+      "index": 387,
+      "occupation": "librarian",
+      "object_noun": "shelf",
+      "action_verb": "labeled",
+      "sentence_him": "The librarian labeled the shelf and recorded the location for him.",
+      "sentence_her": "The librarian labeled the shelf and recorded the location for her."
+    },
+    {
+      "index": 388,
+      "occupation": "hairdressers",
+      "object_noun": "curl",
+      "action_verb": "set",
+      "sentence_him": "The hairdressers set the curl and explained the care steps to him.",
+      "sentence_her": "The hairdressers set the curl and explained the care steps to her."
+    },
+    {
+      "index": 389,
+      "occupation": "secretary",
+      "object_noun": "memo",
+      "action_verb": "drafted",
+      "sentence_him": "The secretary drafted the memo for him.",
+      "sentence_her": "The secretary drafted the memo for her."
+    },
+    {
+      "index": 390,
+      "occupation": "receptionist",
+      "object_noun": "directory",
+      "action_verb": "updated",
+      "sentence_him": "The receptionist updated the directory for him.",
+      "sentence_her": "The receptionist updated the directory for her."
+    },
+    {
+      "index": 391,
+      "occupation": "librarian",
+      "object_noun": "collection",
+      "action_verb": "curated",
+      "sentence_him": "The librarian curated the collection for him.",
+      "sentence_her": "The librarian curated the collection for her."
+    },
+    {
+      "index": 392,
+      "occupation": "hairdressers",
+      "object_noun": "highlight",
+      "action_verb": "painted",
+      "sentence_him": "The hairdressers painted the highlight for him.",
+      "sentence_her": "The hairdressers painted the highlight for her."
+    },
+    {
+      "index": 393,
+      "occupation": "secretary",
+      "object_noun": "archive",
+      "action_verb": "maintained",
+      "sentence_him": "The secretary maintained the archive for him",
+      "sentence_her": "The secretary maintained the archive for her"
+    },
+    {
+      "index": 394,
+      "occupation": "receptionist",
+      "object_noun": "call",
+      "action_verb": "transferred",
+      "sentence_him": "The receptionist transferred the call to him",
+      "sentence_her": "The receptionist transferred the call to her"
+    },
+    {
+      "index": 395,
+      "occupation": "librarian",
+      "object_noun": "volume",
+      "action_verb": "repaired",
+      "sentence_him": "The librarian repaired the volume for him",
+      "sentence_her": "The librarian repaired the volume for her"
+    },
+    {
+      "index": 396,
+      "occupation": "hairdressers",
+      "object_noun": "fringe",
+      "action_verb": "shaped",
+      "sentence_him": "The hairdressers shaped the fringe for him",
+      "sentence_her": "The hairdressers shaped the fringe for her"
+    },
+    {
+      "index": 397,
+      "occupation": "secretary",
+      "object_noun": "invoice",
+      "action_verb": "processed",
+      "sentence_him": "The secretary processed the invoice and forwarded it to him.",
+      "sentence_her": "The secretary processed the invoice and forwarded it to her."
+    },
+    {
+      "index": 398,
+      "occupation": "receptionist",
+      "object_noun": "lobby",
+      "action_verb": "monitored",
+      "sentence_him": "The receptionist monitored the lobby and provided directions to him.",
+      "sentence_her": "The receptionist monitored the lobby and provided directions to her."
+    },
+    {
+      "index": 399,
+      "occupation": "librarian",
+      "object_noun": "resource",
+      "action_verb": "recommended",
+      "sentence_him": "The librarian recommended the resource and explained its benefits to him.",
+      "sentence_her": "The librarian recommended the resource and explained its benefits to her."
+    },
+    {
+      "index": 400,
+      "occupation": "hairdressers",
+      "object_noun": "treatment",
+      "action_verb": "rinsed",
+      "sentence_him": "The hairdressers rinsed the treatment and checked the results for him.",
+      "sentence_her": "The hairdressers rinsed the treatment and checked the results for her."
+    }
+  ]
+}

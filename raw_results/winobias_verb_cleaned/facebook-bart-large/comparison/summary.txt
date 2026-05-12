@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   facebook/bart-large
+Dataset: winobias_verb_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.015356   0.401115    51.85    +0.909497   1.648241    75.80
+within_word_l2r       +0.016460   0.398422    51.72    +0.909497   1.648241    75.80
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=2.84e-01 d=+0.0383
+                   contexts=62 fdr_sig=0
+within_word_l2r    p=2.48e-01 d=+0.0413
+                   contexts=62 fdr_sig=0

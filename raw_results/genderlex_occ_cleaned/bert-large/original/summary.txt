@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   bert-large-uncased
+Dataset: GenderLex_occ_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               837
+Mean delta:      +0.131742
+Std:             0.483979
+Male pref %:     62.72
+Female pref %:   37.28
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               837
+Mean delta:      +0.211324
+Std:             0.526917
+Male pref %:     67.86
+Female pref %:   32.14
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +7.8705
+p-value:         1.09e-14
+Significant:     YES
+Cohen's d:       +0.2720
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      69
+Uncorrected sig.:     31
+FDR significant:      27
+Per-context details:  context_significance.csv

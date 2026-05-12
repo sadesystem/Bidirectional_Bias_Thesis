@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - within_word_l2r
+======================================================================
+Model:   answerdotai/ModernBERT-large
+Dataset: Genderlex_diverse_long_noun_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               400
+Mean delta:      -0.069922
+Std:             0.421607
+Male pref %:     43.75
+Female pref %:   56.25
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               400
+Mean delta:      -0.766785
+Std:             1.309257
+Male pref %:     28.75
+Female pref %:   71.25
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     -3.3128
+p-value:         1.01e-03
+Significant:     YES
+Cohen's d:       -0.1656
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      3
+Uncorrected sig.:     0
+FDR significant:      0
+Per-context details:  context_significance.csv

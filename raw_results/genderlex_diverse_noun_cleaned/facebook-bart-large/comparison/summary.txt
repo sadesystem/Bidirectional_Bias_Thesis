@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   facebook/bart-large
+Dataset: GenderLex_diverse_noun_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              -0.002856   0.653754    46.50    -0.990219   1.204187    20.25
+within_word_l2r       -0.039755   0.495851    45.75    -0.990219   1.204187    20.25
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=9.31e-01 d=-0.0044
+                   contexts=3 fdr_sig=0
+within_word_l2r    p=1.10e-01 d=-0.0801
+                   contexts=3 fdr_sig=0

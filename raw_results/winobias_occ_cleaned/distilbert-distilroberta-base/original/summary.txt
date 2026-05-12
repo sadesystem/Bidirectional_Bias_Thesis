@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   distilbert/distilroberta-base
+Dataset: winobias_occ_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               785
+Mean delta:      +0.263463
+Std:             0.770226
+Male pref %:     61.78
+Female pref %:   38.22
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               785
+Mean delta:      +0.669078
+Std:             1.341675
+Male pref %:     80.89
+Female pref %:   19.11
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +9.5776
+p-value:         1.27e-20
+Significant:     YES
+Cohen's d:       +0.3418
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      40
+Uncorrected sig.:     32
+FDR significant:      32
+Per-context details:  context_significance.csv

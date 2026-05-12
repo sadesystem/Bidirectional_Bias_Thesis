@@ -1,0 +1,20 @@
+======================================================================
+STATISTICAL SIGNIFICANCE - original
+======================================================================
+
+OVERALL BIAS ANALYSIS
+----------------------------------------
+  N samples        : 400
+  Mean Delta       : -0.088506
+  Std Delta        : 0.482287
+  t-statistic      : -3.6703
+  p-value          : 2.75e-04
+  Significant      : YES (α=0.05)
+  Cohen's d        : -0.1835
+  Interpretation   : negligible
+
+PER-CONTEXT MULTIPLE TESTING
+----------------------------------------
+  Contexts tested          : 26
+  Uncorrected significant  : 3
+  FDR significant          : 0

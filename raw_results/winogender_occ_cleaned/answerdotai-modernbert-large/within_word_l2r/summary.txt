@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - within_word_l2r
+======================================================================
+Model:   answerdotai/ModernBERT-large
+Dataset: winogender_occ_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               166
+Mean delta:      +0.076903
+Std:             0.503980
+Male pref %:     60.24
+Female pref %:   39.76
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               178
+Mean delta:      +0.947984
+Std:             1.198986
+Male pref %:     86.52
+Female pref %:   13.48
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +1.9601
+p-value:         5.17e-02
+Significant:     NO
+Cohen's d:       +0.1521
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      8
+Uncorrected sig.:     1
+FDR significant:      1
+Per-context details:  context_significance.csv

@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   distilbert/distilbert-base-uncased
+Dataset: winogender_verb_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.010252   0.130002    55.62    +1.002993   0.876622    89.89
+within_word_l2r       +0.014791   0.132177    56.74    +1.002993   0.876622    89.89
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=2.96e-01 d=+0.0786
+                   contexts=14 fdr_sig=5
+within_word_l2r    p=1.38e-01 d=+0.1116
+                   contexts=14 fdr_sig=5

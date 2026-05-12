@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   distilbert/distilbert-base-uncased
+Dataset: winobias_verb_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.069627   0.504606    62.55    +1.742300   1.332734    91.46
+within_word_l2r       +0.071984   0.500892    62.17    +1.742300   1.332734    91.46
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=1.21e-04 d=+0.1379
+                   contexts=62 fdr_sig=9
+within_word_l2r    p=6.28e-05 d=+0.1436
+                   contexts=62 fdr_sig=9

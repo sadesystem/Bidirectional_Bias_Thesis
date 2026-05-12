@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   distilbert/distilroberta-base
+Dataset: winogender_occ_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              -0.101767   0.399312    37.95    -0.479760   1.073830    32.02
+within_word_l2r       -0.103396   0.419751    38.55    -0.479760   1.073830    32.02
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=1.29e-03 d=-0.2541
+                   contexts=8 fdr_sig=0
+within_word_l2r    p=1.85e-03 d=-0.2456
+                   contexts=8 fdr_sig=0

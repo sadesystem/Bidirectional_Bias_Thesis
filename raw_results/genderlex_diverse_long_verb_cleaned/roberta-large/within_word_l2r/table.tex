@@ -1,0 +1,24 @@
+\begin{table*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+Model &
+\multicolumn{4}{c}{Context Masking} &
+\multicolumn{4}{c}{Pronoun Masking} &
+\multicolumn{2}{c}{Bidir} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(lr){10-11}
+ & M (\%) & F (\%) & mean & sd &
+   M (\%) & F (\%) & mean & sd &
+   Corr ($r$) & Agreement (\%) \\
+\midrule
+within\_word\_l2r &
+33.8 & 66.2 & -0.186 & 0.518 &
+53.2 & 46.8 & 0.075 & 1.325 &
+-0.1273 & 47.0 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Simple-score summary for within\_word\_l2r on \textsc{roberta-large} / \textsc{GenderLex\_diverse\_long\_verb\_cleaned}. Agreement is the percentage of examples where context and pronoun scores prefer the same direction.}
+\label{tab:simple-within_word_l2r-genderlex_diverse_long_verb_cleaned}
+\end{table*}

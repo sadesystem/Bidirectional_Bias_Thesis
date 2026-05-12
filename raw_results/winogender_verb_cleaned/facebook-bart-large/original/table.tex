@@ -1,0 +1,24 @@
+\begin{table*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+Model &
+\multicolumn{4}{c}{Context Masking} &
+\multicolumn{4}{c}{Pronoun Masking} &
+\multicolumn{2}{c}{Bidir} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(lr){10-11}
+ & M (\%) & F (\%) & mean & sd &
+   M (\%) & F (\%) & mean & sd &
+   Corr ($r$) & Agreement (\%) \\
+\midrule
+original &
+58.4 & 40.4 & 0.058 & 0.521 &
+73.6 & 25.8 & 0.593 & 1.123 &
+0.3236 & 59.0 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Simple-score summary for original on \textsc{facebook/bart-large} / \textsc{winogender\_verb\_cleaned}. Agreement is the percentage of examples where context and pronoun scores prefer the same direction.}
+\label{tab:simple-original-winogender_verb_cleaned}
+\end{table*}

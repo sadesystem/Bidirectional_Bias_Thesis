@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   bert-large-uncased
+Dataset: winobias_verb_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               785
+Mean delta:      +0.008662
+Std:             0.624216
+Male pref %:     51.08
+Female pref %:   48.92
+Tie %:           0.00
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               785
+Mean delta:      +1.795969
+Std:             2.784675
+Male pref %:     79.11
+Female pref %:   20.89
+Tie %:           0.00
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     +0.3885
+p-value:         6.98e-01
+Significant:     NO
+Cohen's d:       +0.0139
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      62
+Uncorrected sig.:     6
+FDR significant:      0
+Per-context details:  context_significance.csv

@@ -1,0 +1,37 @@
+======================================================================
+SIMPLE METHOD SUMMARY - original
+======================================================================
+Model:   facebook/bart-large
+Dataset: GenderLex_verb_cleaned
+
+CONTEXT SUMMARY
+----------------------------------------
+N:               837
+Mean delta:      -0.000735
+Std:             0.364440
+Male pref %:     53.76
+Female pref %:   45.64
+Tie %:           0.60
+
+PRONOUN SUMMARY
+----------------------------------------
+N:               837
+Mean delta:      -0.562429
+Std:             1.354819
+Male pref %:     34.29
+Female pref %:   65.59
+Tie %:           0.12
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+t-statistic:     -0.0583
+p-value:         9.53e-01
+Significant:     NO
+Cohen's d:       -0.0020
+
+PER-CONTEXT SIGNIFICANCE SUMMARY
+----------------------------------------
+Contexts tested:      54
+Uncorrected sig.:     18
+FDR significant:      15
+Per-context details:  context_significance.csv

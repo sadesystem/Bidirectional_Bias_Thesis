@@ -1,0 +1,17 @@
+======================================================================
+COMPARISON SUMMARY
+======================================================================
+Model:   bert-large-uncased
+Dataset: winogender_verb_cleaned
+
+Method                 Ctx Mean     Ctx SD   Ctx M%      Pr Mean      Pr SD    Pr M%
+------------------------------------------------------------------------------------
+original              +0.024370   0.311909    50.56    +2.339070   1.696106    89.89
+within_word_l2r       +0.028802   0.314804    50.56    +2.339070   1.696106    89.89
+
+CONTEXT SIGNIFICANCE
+----------------------------------------
+original           p=3.00e-01 d=+0.0779
+                   contexts=14 fdr_sig=0
+within_word_l2r    p=2.25e-01 d=+0.0912
+                   contexts=14 fdr_sig=0

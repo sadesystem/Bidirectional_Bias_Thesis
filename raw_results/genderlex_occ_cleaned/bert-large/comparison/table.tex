@@ -1,0 +1,22 @@
+\begin{table*}[t]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+Method &
+\multicolumn{4}{c}{Context Masking} &
+\multicolumn{4}{c}{Pronoun Masking} &
+\multicolumn{2}{c}{Bidir} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(lr){10-11}
+ & M (\%) & F (\%) & mean & sd &
+   M (\%) & F (\%) & mean & sd &
+   Corr ($r$) & Agreement (\%) \\
+\midrule
+original & 62.7 & 37.3 & 0.132 & 0.484 & 67.9 & 32.1 & 0.211 & 0.527 & -0.0190 & 54.5 \\
+within\_word\_l2r & 63.9 & 36.1 & 0.156 & 0.410 & 67.9 & 32.1 & 0.211 & 0.527 & -0.0391 & 55.7 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Simple-score method comparison for \textsc{bert-large-uncased} on \textsc{GenderLex\_occ\_cleaned}. Agreement is the percentage of examples where context and pronoun scores prefer the same direction.}
+\label{tab:simple-comparison-genderlex_occ_cleaned}
+\end{table*}
